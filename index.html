@@ -9,8 +9,17 @@
   <link rel="stylesheet" href="styles/index.css" type="text/css" />
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+    <!-- Font Awesome-->
   <link href="https://fonts.googleapis.com/css?family=Bellota+Text|Bellota:700&display=swap" rel="stylesheet"> 
 
+  <!-- Animate CSS-->
+  <link rel="stylesheet" href="styles/animate.css">
+
+  <!-- WowJS-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+  <script>
+  new WOW().init();
+  </script>
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
     integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"
@@ -29,10 +38,10 @@
 
 <body class="bkg">
   <!-- Navbar -->
-  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+  <nav class="wow slideInDown navbar fixed-top navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">
       <img src="img/brand.png" width="60" height="35" alt="">
-      Caravana Educationala</a>
+       Caravana Educatională</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -50,8 +59,8 @@
         </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">
-        <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">        <i class="fab fa-facebook"></i>
-          <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">        <i class="fab fa-instagram"></i>
+        <button class="btn my-2 my-sm-0" type="submit">        <i class="fab fa-2x fa-facebook"></i>
+          <button class="btn my-2 my-sm-0" type="submit">        <i class="fab fa-2x fa-instagram"></i>
 
         </button>
       </form>
@@ -61,8 +70,8 @@
   <!-- Scrollable content -->
   <main class="main">
     <section style="grid-area:head" class="header container ">
-      <h1 class="header-lead">Descoperă Facultatea de Matematică și Informatică!</h1>
-      <div class="embed-responsive embed-responsive-16by9 video">
+      <h1 class="header-lead wow fadeInUp">Descoperă Facultatea de Matematică și Informatică!</h1>
+      <div class="wow fadeInUp embed-responsive embed-responsive-16by9 video">
         <iframe
           class="embed-responsive-item"
           width="560"
@@ -74,7 +83,7 @@
         ></iframe>
       </div>
     </section>
-    <section class="content container ">
+    <section class="wow fadeInUp content container ">
       <h2>Ce este Caravana?</h2>
       <p>
         Caravana Educațională este proiectul desfășurat de Asociația Studenților
