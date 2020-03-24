@@ -76,7 +76,7 @@ body {
 @media only screen and (max-width: 768px) {
 
     .header-lead {
-        font-size:3em;
+        font-size:2.5em;
     }
     body {
         padding-top:70px;
