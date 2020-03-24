@@ -18,7 +18,19 @@
   <!-- WowJS-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
   <script>
-  new WOW().init();
+    let didInitWow = false;
+    function initWow() {
+      if (didInitWow) {
+        return;
+      }
+
+      didInitWow = true;
+
+      new WOW().init();
+    }
+
+    document.addEventListener("scroll", initWow);
+    document.addEventListener("click", initWow);
   </script>
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
@@ -70,9 +82,9 @@
   <!-- Scrollable content -->
   <main class="main">
     <section class="header">
-      <h1 class="header-lead wow fadeInUp">Descoperă Facultatea de Matematică și Informatică!</h1>
+      <h1 class="header-lead">Descoperă Facultatea de Matematică și Informatică!</h1>
     </section>
-    <section class="wow fadeInUp embed-responsive embed-responsive-16by9 mb-3">
+    <section class="embed-responsive embed-responsive-16by9 mb-3">
       <iframe
         class="embed-responsive-item"
         width="560"
