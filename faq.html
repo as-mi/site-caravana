@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="styles/index.css?v=1.2" type="text/css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+  <!-- Font Awesome-->
+  <link href="https://fonts.googleapis.com/css?family=Bellota+Text|Bellota:700&display=swap" rel="stylesheet">
+
+  <!-- Animate CSS-->
+  <link rel="stylesheet" href="styles/animate.css">
+
+  <!-- WowJS-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+  <script>
+    let didInitWow = false;
+    function initWow() {
+      if (didInitWow) {
+        return;
+      }
+
+      didInitWow = true;
+
+      new WOW().init();
+    }
+
+    document.addEventListener("scroll", initWow);
+    document.addEventListener("click", initWow);
+  </script>
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"
+    defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"
+    defer></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"
+    defer></script>
+  <script src="https://kit.fontawesome.com/8f2dcd945c.js" crossorigin="anonymous"></script>
+  <title>
+    Pagina Principală &mdash; Caravana ASMI
+  </title>
+</head>
+
+<body class="bkg">
+  <!-- Navbar -->
+  <nav class="wow slideInDown navbar sticky-top navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="img/brand.png" width="60" height="35" alt="">
+      Caravana Edu</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item ">
+          <a class="nav-link" href="index.html">Despre FMI <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="info_admitere.html">Informații admitere</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="faq.html">Întrebări frecvente</a>
+        </li>
+      </ul>
+      <form class="form-inline my-2 my-lg-0">
+        <button class="btn my-2 my-sm-0" type="submit"> <i class="fab fa-2x fa-facebook"></i>
+          <button class="btn my-2 my-sm-0" type="submit"> <i class="fab fa-2x fa-instagram"></i>
+
+          </button>
+      </form>
+    </div>
+  </nav>
+
+  <!-- Scrollable content -->
+  <main class="main">
+    <section class="header">
+      <h1 class="header-lead">Întrebări frecvente</h1>
+    </section>
+
+    <section class="wow fadeInUp content ">
+      <h2>Care este diferenta dintre specializarile domeniului Matematica?</h2>
+      <hr>
+      <div class="row">
+        <div class="col col-8">
+          <p>
+            Domeniul Matematica se imparte in 3 specializari:
+          </p>
+          <h4>Matematica pura</h4>
+          <p>Absolventii de Matematica pura se indreapta catre invatamant de toate gradele si cercetare, acest program
+            oferindu-le o buna aprofundare a notiunilor teoretice.</p>
+          <h4>Matematici aplicate</h4>
+          <p>
+            Absolventii de Matematici aplicate sunt cei care urmeaza sa lucreze ca matematicieni in mediul economic, in
+            special analist de date, cercetare prospectiva sau Data Scientist (mai nou) in banci, finante, asigurari, pensii
+            sau piata. La acest program, se pune accentul pe metode matematice si statistice aplicate in industrie si in
+            economie si software matematic folosit pentru implementarea acestor metode.
+          </p>
+          <h4>Matematica-Informatica</h4>
+          <p>Absolventii de Matematica-Informatica sunt cei care fie au o pasiune atat pentru matematica, cat si pentru
+            informatica si isi doresc sa le studieze pe amandoua, intr-un program comun, la un nivel la care sa le permita
+            ulterior sa se indrepte in oricare dintre cele 2 directii. In cadrul programului de Matematica-Informatica se
+            fac 2 ani din planul de invatamant de la Informatica, dar intr-un mod mai gradual, care permite si celor care nu
+            stiau informatica deloc la intrarea in facultate sa ajunga la un nivel suficient de bun si apoi, dupa primii 3
+            ani de licenta, sa mai faca 1 an suplimentar de Informatica si sa obtina si licenta in Informatica.</p>
+        </div>
+        <div class="col col-4">
+          <img class="img-fluid" src="img/math.svg" />
+        </div>
+
+      </div>
+     </section>
+     <section class="wow fadeInUp content">
+      <h2>Daca ma duc la mate-info pot sa iau si licenta de la info?</h2>
+      <hr>
+      <p> Da. Dupa finalizarea cursurilor de licenta in domeniul Matematica, vei fi nevoit sa dai din nou admiterea la domeniul Informatica si dupa ce esti admis, vei face doar anul 3 pentru a-ti termina licenta in Informatica. </p>
+     </section>
+     <section class="wow fadeInUp content">
+      <h2>Daca fac mate-info, pot sa fac toata materia de la info?</h2>
+      <hr>
+      <p> Da. Cat timp esti student la specializarea Matematica – Informatica, vei studia primii 2 ani de la domeniul de licenta Informatica, anul 3 de la Informatica fiind anul suplimentar pentru a obtine a doua licenta. </p>
+     </section>
+
+     <section class="wow fadeInUp content">
+       <h2>De ce sa aleg Bucuresti cand am Cluj si Iasi?</h2>
+       <hr>
+       <p>Diferentele nu sunt mari intre facultatile din aceste orase. In mare parte, trebuie sa te gandesti in ce oras ti-ai dori sa locuiesti si care sunt oportunitatile pe care ti le ofera. In Bucuresti, de exemplu, fiind un oras mai mare decat Iasi sau Cluj, sunt mai multe companii si mai multe corporatii au sedii deschise aici. </p>
+     </section>
+     
+    <section class="wow fadeInUp content ">
+      <h2>Ce este o intrebare?</h2>
+      <p>
+        Cat ipsum dolor sit amet, bite off human's toes yet rub face on everything. Wake up human for food at 4am cat is
+        love, cat is life but human clearly uses close to one life a night no one naps that long so i revive by standing
+        on chestawaken! yet stare out the window stand in front of the computer screen.
+      </p>
+    </section>
+    <section class="wow fadeInUp content ">
+      <h1>Nu ai găsit ce căutai?</h1>
+      <form>
+        <div class="form-group">
+
+          <label for="exampleFormControlTextarea1">Lasă-ne o întrebare, iar noi îți vom răspunde în cel mai scurt timp
+            :)</label>
+          <textarea placeholder="Întrebarea ta aici..." class="form-control" id="exampleFormControlTextarea1"
+            rows="4"></textarea>
+        </div>
+
+        <div class="form-group">
+          <label class="sr-only" for="inlineFormInputGroup">Email</label>
+          <div class="input-group mb-2">
+            <div class="input-group-prepend">
+              <div class="input-group-text"><i class="fas fa-envelope"></i></div>
+            </div>
+            <input type="text" class="form-control" id="inlineFormInputGroup" placeholder="Adresa ta de e-mail">
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Trimite!</button>
+
+
+
+      </form>
+
+    </section>
+  </main>
+</body>
+
+</html>

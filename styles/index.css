@@ -30,6 +30,7 @@ main {
 }
 
 .content {
+    margin:40px auto;
     padding: 30px;
     background-color: white;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
@@ -53,5 +54,17 @@ main {
 @media (max-width: 360px) {
     .header-lead {
         font-size: 1.5em;
+    }
+}
+
+@media (min-width:1200px) {
+
+    main {
+        margin: 0px 150px;
+    }
+
+    .header-lead {
+        margin-bottom:80px;
+        margin-top: 60px;
     }
 }
