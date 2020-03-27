@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="styles/index.css?v=1.2" type="text/css" />
+  <link rel="stylesheet" href="styles/index.css?v=1.3" type="text/css" />
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
   <!-- Font Awesome-->
@@ -18,19 +18,7 @@
   <!-- WowJS-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
   <script>
-    let didInitWow = false;
-    function initWow() {
-      if (didInitWow) {
-        return;
-      }
-
-      didInitWow = true;
-
-      new WOW().init();
-    }
-
-    document.addEventListener("scroll", initWow);
-    document.addEventListener("click", initWow);
+    new WOW().init();
   </script>
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
@@ -83,13 +71,13 @@
   <!-- Scrollable content -->
   <main class="main">
     <section class="header">
-      <h1 class="header-lead">Întrebări frecvente</h1>
+      <h1 class="header-lead wow slideInUp">Întrebări frecvente</h1>
     </section>
 
     <section class="wow fadeInUp content ">
       <h2>Care este diferenta dintre specializarile domeniului Matematica?</h2>
       <hr>
-      <div class="row">
+      <div class="row justify-content-center">
         <div class="col col-8">
           <p>
             Domeniul Matematica se imparte in 3 specializari:
@@ -138,13 +126,22 @@
      <section class="wow fadeInUp content ">
       <h2>Ce oportunitati am?</h2>
       <hr>
-      <h4>Internship-uri</h4>
-      <p>Exista multe programe de <b>internship</b> in timpul verii. In aceste programe vei fi angajat la o companie si vei invata ce fac ei pentru a te pregati mai departe sa intri pe piata muncii. Ofertele sunt prezente si specializate pentru toate domeniile noastre de licenta si la finalul unui asemenea program, exista posibilitatea de a primi o oferta de a ramane angajat.</p>
-      <h4>Workshop-uri</h4>
-      <p>Exista diferite <b>workshop-uri</b> la care va puteti inscrie si sa obtineti noi skilluri. De exemplu, aveti posibilatea de a va inscrie in timp la ateliere de Java, Android Development si multe altele.</p>
-      <h4>Cercetare</h4>
-      <p>Dupa absolvire, puteti merge in <b>cercetare</b>, sa predati in institutiile de invatamant si sa lucrati in domeniul privat, ca angajat in diferite companii pe posturi specific domeniului de licenta.</p>
-    </section>
+      <div class="row justify-content-center align-items-center">
+
+        <div class=" col-md-6 col-xl-8">
+          <h4>Internship-uri</h4>
+          <p>Exista multe programe de <b>internship</b> in timpul verii. In aceste programe vei fi angajat la o companie si vei invata ce fac ei pentru a te pregati mai departe sa intri pe piata muncii. Ofertele sunt prezente si specializate pentru toate domeniile noastre de licenta si la finalul unui asemenea program, exista posibilitatea de a primi o oferta de a ramane angajat.</p>
+          <h4>Workshop-uri</h4>
+          <p>Exista diferite <b>workshop-uri</b> la care va puteti inscrie si sa obtineti noi skilluri. De exemplu, aveti posibilatea de a va inscrie in timp la ateliere de Java, Android Development si multe altele.</p>
+          <h4>Cercetare</h4>
+          <p>Dupa absolvire, puteti merge in <b>cercetare</b>, sa predati in institutiile de invatamant si sa lucrati in domeniul privat, ca angajat in diferite companii pe posturi specific domeniului de licenta.</p>
+        </div>
+        <div class=" col-md-6 col-xl-4">
+
+          <img class="img-fluid" src="img/4.svg">
+        </div>
+      </div>
+      </section>
 
     <section class="wow fadeInUp content ">
       <h2>Ma pot muta de la un domeniu la altul? De exemplu, de la CTI la Informatica?</h2>
@@ -192,7 +189,10 @@
       <p>Doar pentru anul I.</p>
     </section>
 
+
+    <section class="wow fadeInUp content">
       <h2>Daca am intrat la taxa in primul an este vreo posibilitate de a trece la buget ulterior?</h2>
+      <hr>
       <p>
         <b>Da. </b>Inaintea inceperii fiecarui an universitar se va realia o reclasificare unde se va tine cont de rezultatele obtinute in anul universitar precedent.
       </p>
