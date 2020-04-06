@@ -23,7 +23,7 @@ jobs:
     - name: Deploy through FTP
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
-        local-dir: ./public/
+        local-dir: public/
         ftp-server: ftp://ftp.as-mi.ro/
         ftp-username: caravana
         ftp-password: ${{ secrets.FTP_PASSWORD }}
