@@ -6,12 +6,21 @@ on:
 
 jobs:
   deploy:
-    name: Deploy through FTP
+    name: Build and deploy site
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: SamKirkland/FTP-Deploy-Action@3.0.0
+    - name: Checkout the code
+      uses: actions/checkout@v2
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
       with:
+        hugo-version: 'latest'
+    - name: Build with Hugo
+      run: hugo --minify
+    - name: Deploy through FTP
+      uses: SamKirkland/FTP-Deploy-Action@3.0.0
+      with:
+        local-dir: public/
         ftp-server: ftp://ftp.as-mi.ro/
         ftp-username: caravana
         ftp-password: ${{ secrets.FTP_PASSWORD }}
