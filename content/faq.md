@@ -101,7 +101,7 @@ licență.
 echivala materii comune.
 {{< /section >}}
 
-{{< section `Automatica de la Universitatea Politehnica București vs FMI` >}
+{{< section `Automatica de la Universitatea Politehnica București vs FMI` >}}
 Ambele facultăți te pot pregăti pentru o viitoare carieră,
 depinde foarte mult de ce îți dorești.
 O să enumerăm câteva diferențe și o recomandare pe care noi o facem.
@@ -160,3 +160,4 @@ Vă recomandăm să îl studiați și să ne contactați pe pagina
 noastră de Facebook pentru a primi informații suplimentare.
 
 <img class="img-fluid" src="img/3.svg" />
+{{< /section >}}
