@@ -101,95 +101,62 @@ licență.
 echivala materii comune.
 {{< /section >}}
 
-<h2>Automatica de la Universitatea Politehnica București vs FMI</h2>
-<hr />
-<div class="row">
-    <div class="col-lg-8">
-    <p>
-        Ambele facultăți te pot pregăti pentru o viitoare carieră, depinde
-        foarte mult de ce îți dorești. O să enumerăm câteva diferențe și o
-        recomandare pe care noi o facem.
-    </p>
-    <p>
-        În primul rand de la Facultatea de Automatica si Calculatoare
-        sunteti mai mult indreptati spre partea de
-        <b>Computer Engineering</b>, pe cand de la Informatica vă
-        îndreptați spre <b>Computer Science</b>. Poate în momentul de față
-        nu vă sunt clare aceste diferențe, dar e ok. Încercăm să le
-        clarificăm în continuare.
-    </p>
+{{< section `Automatica de la Universitatea Politehnica București vs FMI` >}
+Ambele facultăți te pot pregăti pentru o viitoare carieră,
+depinde foarte mult de ce îți dorești.
+O să enumerăm câteva diferențe și o recomandare pe care noi o facem.
 
-    <p>
-        La Automatică pe lângă cursurile de matematică și informatică,
-        există și cursuri de fizică. Pe lângă partea de software, se face
-        și hardware. Programul de studiu oferit de această facultate se
-        împarte în două specializări: CTI și IS, IS fiind mai axat pe
-        partea de hardware și embedded. Durata programului de studiu este
-        de 4 ani.
-    </p>
+În primul rand de la Facultatea de Automatica si Calculatoare sunteți
+mai mult îndreptați spre partea de **Computer Engineering**, pe când de la
+Informatică vă îndreptați spre **Computer Science**. Poate în momentul de față
+nu vă sunt clare aceste diferențe, dar e ok. Încercăm să le
+clarificăm în continuare.
 
-    <p>
-        La multe cursuri pe care le veți sustine la facultatea noastră, va
-        fi nevoie să dezvoltați diferite aplicații software, precum
-        aplicații web, care să respecte diferite cerințe, printre care și
-        integrarea mai multor tehnologii pentru a obține un produs
-        asemănător cu ceea ce găsim în piața de software astăzi.
-    </p>
-    </div>
-    <div class="col col-lg-4">
-    <img aria-hidden="true" class="img-fluid" src="img/2.svg" />
-    </div>
-</div>
-<div class="row mt-5">
-<div class="col-lg-8 order-lg-1">
-    <p>
-        Totuși, dacă sunteți interesați de partea de hardware și embedded,
-        din anul 2, aveți posibilitatea de a vă înscrie la cursul de
-        robotică unde în primul semestru veți face diferiți roboți
-        folosind placute Arduino, vă lăsăm
-        <a
-        href="https://www.facebook.com/unibuc.robotics/"
-        target="_blank"
-        >aici</a
-        >
-        link către pagina de Facebook a cursului unde sunt prezentați
-        roboții făcuți de studenți. La finalul semestrului, în holul
-        facultății, se strâng toți studenții cu
-        <a
-        href=" https://www.facebook.com/pg/unibuc.robotics/photos/?tab=album&album_id=2722048637831687"
-        target="_blank"
-        >proiectele pe care le-au realizat</a
-        >
-        și urmează să fie notați de profesorul de curs și profesorii de
-        laborator.
-    </p>
-    <p>
-        În al doilea semestru, puteți continua cursul dacă doriți și se va
-        merge pe partea de IoT (Internet of Things). Aici având și mai
-        multă libertate în ceea ce privește proiectul pe care doriți să îl
-        realizați.
-    </p>
-    <p>
-        În București, în momentul de față, sunt mai multe companii de
-        software și studenții noștrii sunt pregătiți să intre pe piața
-        muncii luând în vedere că studeim limbaje de programare și
-        tehnologii care sunt folosite în producție. Indiferent de
-        facultatea pe care o absolviți dintre cele două, dacă veți lucra
-        pe un post de programator, veți vedea că angajații provin din
-        ambele instituții.
-    </p>
-    <p>
-        Recomandarea noastră este să vă uitați pe planurile de învățământ
-        ale celor două instituții și să vă gândiți ce vă avantajează cel
-        mai mult. Planul nostru de invatamant poate fi găsit
-        <a
-        href="http://fmi.unibuc.ro/ro/plan_invatamant_2019_2020/"
-        target="_blank"
-        >aici</a
-        >. Vă recomandăm să îl studiați și să ne contactați pe pagina
-        noastră de Facebook pentru a primi informații suplimentare.
-    </p>
-</div>
-</div>
+La Automatică pe lângă cursurile de matematică și informatică,
+există și cursuri de fizică. Pe lângă partea de software, se face
+și hardware. Programul de studiu oferit de această facultate se
+împarte în două specializări: CTI și IS, IS fiind mai axat pe
+partea de hardware și embedded. Durata programului de studiu este
+de 4 ani.
+
+La multe cursuri pe care le veți sustine la facultatea noastră, va
+fi nevoie să dezvoltați diferite aplicații software, precum
+aplicații web, care să respecte diferite cerințe, printre care și
+integrarea mai multor tehnologii pentru a obține un produs
+asemănător cu ceea ce găsim în piața de software astăzi.
+
+<img aria-hidden="true" class="img-fluid" src="img/2.svg" />
+
+Totuși, dacă sunteți interesați de partea de hardware și embedded,
+din anul 2, aveți posibilitatea de a vă înscrie la cursul de
+robotică unde în primul semestru veți face diferiți roboți
+folosind placute Arduino, vă lăsăm
+[aici](https://www.facebook.com/unibuc.robotics/)
+link către pagina de Facebook a cursului unde sunt prezentați
+roboții făcuți de studenți. La finalul semestrului, în holul
+facultății, se strâng toți studenții cu
+[proiectele pe care le-au realizat](https://www.facebook.com/pg/unibuc.robotics/photos/?tab=album&album_id=2722048637831687)
+și urmează să fie notați de profesorul de curs și profesorii de
+laborator.
+
+În al doilea semestru, puteți continua cursul dacă doriți și se va
+merge pe partea de IoT (Internet of Things). Aici având și mai
+multă libertate în ceea ce privește proiectul pe care doriți să îl
+realizați.
+
+În București, în momentul de față, sunt mai multe companii de
+software și studenții noștrii sunt pregătiți să intre pe piața
+muncii luând în vedere că studeim limbaje de programare și
+tehnologii care sunt folosite în producție. Indiferent de
+facultatea pe care o absolviți dintre cele două, dacă veți lucra
+pe un post de programator, veți vedea că angajații provin din
+ambele instituții.
+
+Recomandarea noastră este să vă uitați pe planurile de învățământ
+ale celor două instituții și să vă gândiți ce vă avantajează cel
+mai mult. Planul nostru de invatamant poate fi găsit
+[aici](http://fmi.unibuc.ro/ro/plan_invatamant_2019_2020/).
+Vă recomandăm să îl studiați și să ne contactați pe pagina
+noastră de Facebook pentru a primi informații suplimentare.
 
 <img class="img-fluid" src="img/3.svg" />
