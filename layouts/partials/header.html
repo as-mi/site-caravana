@@ -20,15 +20,24 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      {{ $currentPage := . }}
-      {{ range .Site.Menus.main }}
-        <li class='nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}'>
-          <a class="nav-link" href="{{ .URL | absURL }}">
-            {{ .Title }}
-          </a>
-        </li>
+      {{ $currentPage := . }} {{ range .Site.Menus.main }}
+      <li
+        class='nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}'
+      >
+        <a class="nav-link" href="{{ .URL | absURL }}">
+          {{ .Title }}
+        </a>
+      </li>
       {{ end }}
     </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input
+        class="form-control my-2 my-sm-0"
+        type="search"
+        placeholder="Caută"
+        aria-label="Search"
+      />
+    </form>
     <form class="form-inline my-2 my-lg-0">
       <button class="btn my-2 my-sm-0" type="submit">
         <i class="fab fa-2x fa-facebook"></i>
