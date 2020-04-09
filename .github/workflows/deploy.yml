@@ -27,3 +27,4 @@ jobs:
         ftp-server: sftp://asmi.ro/caravana/
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
+        git-ftp-args: --insecure
