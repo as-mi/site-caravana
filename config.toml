@@ -1,4 +1,4 @@
-baseURL = "http://caravana.as-mi.ro/"
+baseURL = "https://caravana.asmi.ro/"
 languageCode = "ro-ro"
 title = "Caravana Educațională"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
