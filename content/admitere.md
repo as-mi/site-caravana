@@ -61,6 +61,6 @@ Pentru a facilita procesul de admitere și pentru a îmbunătăți experiența c
 
 Candidații care au susținut bacalaureatul în sesiunea curentă - 2020 - se pot înscrie online fără diploma sau adeverința de bacalaureat, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEN. Înscrierea pe baza rezultatelor la bacalaureat descărcate din SIIIR este disponibilă și la facultate, dar doar după publicarea rezultatelor finale în SIIIR de către MEN.
 
-Mai multe diferențe explicate în detaliu dintre înscrierea online și cea la facultate puteți găsi aici (http://fmi.unibuc.ro/ro/pdf/2019/admitere/licenta/Inscriere_online_vs_inscriere_la_facultate-admitere_2019.pdf)
+Mai multe diferențe explicate în detaliu dintre înscrierea online și cea la facultate puteți găsi [aici](http://fmi.unibuc.ro/ro/pdf/2019/admitere/licenta/Inscriere_online_vs_inscriere_la_facultate-admitere_2019.pdf)
 
 {{< /section >}}
