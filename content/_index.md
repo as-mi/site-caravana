@@ -6,7 +6,7 @@ menu: main
 weight: -200
 ---
 
-{{< youtube 1yuDK3IXnb4 >}}
+{{< youtube ZgG5iMM5zjI >}}
 
 {{< section `Ce este Caravana?` >}}
 
@@ -19,13 +19,13 @@ facultatea noastră în țară.
 
 {{< section `Despre Facultatea de Matematică și Informatică` >}}
 
-Urmașă directă a secției de Matematică a Facultății de Științe, Facultatea de Matematică și Informatică a luat naștere în 1863, fiind una dintre facultățile de prestigiu la nivel național. Ea face parte din una dintre cele 6 facultăți din cadrul Palatului Universității, aflându-se în zona centrală a Bucureștiului, în apropierea kilometrului 0, în inima acestuia am putea spune, pe Strada Academiei nr 14, sectorul 1, la 44°26'07.9" latitudine Nordică și 26°05… Da, Centrul Vechi e lângă noi. 
+Urmașă directă a secției de Matematică a Facultății de Științe, Facultatea de Matematică și Informatică a luat naștere în 1863, fiind una dintre facultățile de prestigiu la nivel național. Ea face parte din una dintre cele 6 facultăți din cadrul Palatului Universității, aflându-se în zona centrală a Bucureștiului, în apropierea kilometrului 0, în inima acestuia am putea spune, pe Strada Academiei nr 14, sectorul 1, la 44°26'07.9" latitudine Nordică și 26°05… Da, Centrul Vechi e lângă noi.
 
 
-Facultatea pune la dispoziție 3 domenii de licență, primele 2 desfășurându-se pe o perioadă de 3 ani, iar ultimul pe 4 ani: 
+Facultatea pune la dispoziție 3 domenii de licență, primele 2 desfășurându-se pe o perioadă de 3 ani, iar ultimul pe 4 ani:
 * Informatică
 * Matematică (cu cele 3 specializări ale sale: Matematică, Matematică Aplicată și Matematică Informatică)
-* Calculatoare și Tehnologia Informației 
+* Calculatoare și Tehnologia Informației
 
 
 Ce studiezi aici? Algoritmică, Robotică, Inteligență Artificială, Sisteme de Operare, Baze de Date, Programare Orientată pe Obiecte, Criptografie. Cu alte cuvinte, ceea ce făcea băiatul din Mr. Robot nu o să ți se mai pară o limbă străină.
@@ -37,7 +37,7 @@ Studenții noștri reușesc să își găsească foarte ușor locuri de muncă, 
 Modul de gândire dezvoltat pe parcursul anilor de studiu îi recomandă pe studenți să ocupe poziții cheie nu doar în mediul bancar sau în IT, cât și în cercetarea fundamentală/departamentală, în domenii precum: criptografie, meteorologie, astronomie, mecanică, optimizări.
 
 
-După absolvire există posibilitatea de a opta pentru continuarea studiilor la Master, atât la noi, cât și la orice altă universitate din țară sau din străinătate.  
+După absolvire există posibilitatea de a opta pentru continuarea studiilor la Master, atât la noi, cât și la orice altă universitate din țară sau din străinătate.
 
 
 Totodată, mediul este primitor, încurajând dezvoltarea nu doar pe plan profesional, cât și pe plan personal. Te poți implica oricând în tot felul de activități studențești, concursuri, atât naționale cât și internaționale, poți participa la hackathon sau olimpiade și, de ce nu, și la petreceri. Dacă îți faci griji că nu te potrivești în acest mediu, că nu o să îți poți face prieteni și că vii singur într-un oraș mare, stai calm, o să te integrezi mult mai ușor decât x-ul ăla de la subiectul 3.
