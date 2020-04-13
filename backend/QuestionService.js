@@ -29,9 +29,14 @@ async function resolveQuestion(id) {
   await question.save();
 }
 
+async function deleteQuestion(id) {
+  await Question.findByIdAndDelete(id);
+}
+
 module.exports = {
   postQuestion,
   getQuestions,
   getQuestion,
   resolveQuestion,
+  deleteQuestion,
 };

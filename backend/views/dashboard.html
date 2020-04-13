@@ -54,12 +54,30 @@
   <script>
     let table;
     async function changeResolved(id) {
-      console.log(id);
       const response = await fetch("/questions/resolve/" + id, {
         method: "PATCH",
       });
 
       table.ajax.reload();
+    }
+
+    async function deleteQuestion(id) {
+      UIkit.modal
+        .confirm("Are you sure you want to delete Question " + id + "?")
+        .then(
+          async () => {
+            const response = await fetch("/questions/" + id, {
+              method: "DELETE",
+            });
+
+            UIkit.modal.alert("Question deleted");
+
+            table.ajax.reload();
+          },
+          () => {
+            UIkit.modal.alert("Question not deleted");
+          }
+        );
     }
 
     $(document).ready(function () {
@@ -102,6 +120,20 @@
             render(val) {
               const date = new Date(val);
               return moment(date).format("HH:mm DD MMM YYYY");
+            },
+          },
+          {
+            title: "Tools",
+            data: "_id",
+            render(val, type, row) {
+              const id = row._id;
+              return (
+                '<a href="javascript:deleteQuestion(' +
+                "'" +
+                String(id) +
+                "'" +
+                ');" style="color: red" uk-icon="icon: close"></a>'
+              );
             },
           },
         ],

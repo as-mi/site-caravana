@@ -6,6 +6,7 @@ ADMIN_NAME=
 ADMIN_PASSWORD=
 SECRET=
 PORT=
+CAPTCHA_SECRET=
 */
 
 const bcrypt = require("bcryptjs");
@@ -14,11 +15,14 @@ const jwt = require("jsonwebtoken");
 const express = require("express");
 const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
+const { stringify } = require("querystring");
 
 const path = require("path");
 
 const mongoose = require("mongoose");
 const auth = require("./auth.js");
+
+const axios = require("axios");
 
 const QuestionService = require("./QuestionService.js");
 
@@ -36,10 +40,33 @@ mongoose
     console.log(":::" + err);
   });
 
+app.get("/admin/test", async (rqe, res) => {
+  res.sendFile(path.join(__dirname + "/views/captcha_test.html"));
+});
+
 app.post("/questions/new", async (req, res) => {
   try {
-    await QuestionService.postQuestion(req.body.email, req.body.question);
-    res.status(201).send();
+    const response = req.body.response;
+
+    const captcha_data = stringify({
+      response,
+      secret: process.env.CAPTCHA_SECRET,
+    });
+
+    let captchaValid;
+
+    await axios
+      .post(`https://www.google.com/recaptcha/api/siteverify?${captcha_data}`)
+      .then((resp) => {
+        captchaValid = resp.data.success;
+      });
+
+    if (captchaValid) {
+      await QuestionService.postQuestion(req.body.email, req.body.question);
+      res.status(201).send();
+    } else {
+      res.status(403).send("Please solve captcha");
+    }
   } catch (error) {
     res.status(500).send(error.message);
   }
@@ -72,6 +99,16 @@ app.get("/questions/:id", auth, async (req, res) => {
     }
 
     res.status(200).send(question);
+  } catch (error) {
+    res.status(500).send(error.message);
+  }
+});
+
+app.delete("/questions/:id", auth, async (req, res) => {
+  try {
+    await QuestionService.deleteQuestion(req.params.id);
+
+    res.status(200).send();
   } catch (error) {
     res.status(500).send(error.message);
   }
