@@ -14,7 +14,7 @@ acestuia.
 {{< section `Ce oportunități am?` >}}
 1. Ca student
     1. Există multe programe de internship în timpul verii. În aceste programe, vei fi angajat la o companie și vei învăța ce fac ei, pentru a te pregăti mai departe să intri pe piața muncii. Ofertele sunt prezente și specializate pentru toate domeniile noastre de licență și, la finalul unui asemenea program, există posibilitatea de a primi o ofertă de a rămâne angajat.
-    2. Există diferite workshop-uri la care vă puteți înscrie și să obțineți noi skill-uri. De exemplu, aveți posibilitatea de a vă înscrie în timp la workshop-uri de Java, Python, Android Development, precum și la diferite training-uri pe partea de soft skills: public speaking, leadership și multe altele. Pe lângă toate acestea, puteți participa de-a lungul anilor la cursurile oferite de Unibuc Robotics (https://www.facebook.com/unibuc.robotics/), printre care: 3D Modeling and Printing, Robotica, Internet of Things și altele.
+    2. Există diferite workshop-uri la care vă puteți înscrie și să obțineți noi skill-uri. De exemplu, aveți posibilitatea de a particia la workshop-uri de Java, Python, Android Development, precum și la diferite training-uri pe partea de soft skills: public speaking, leadership și multe altele. Pe lângă toate acestea, puteți participa de-a lungul anilor la cursurile oferite de [Unibuc Robotics](https://www.facebook.com/unibuc.robotics/), printre care: 3D Modeling and Printing, Robotica, Internet of Things și altele.
 
 2. După absolvire, puteți merge în cercetare, să predați în instituțiile de învățământ și să lucrați în domeniul privat, ca angajat la diferite companii pe posturi specifice domeniului de licență. Piața de Research &amp; Development este în plină
 dezvoltare, astfel că multe companii românești și multinaționale și-au deschis sediu în București, unele dintre ele, cum ar fi Bitdefender sau Oracle, având parteneriate cu Facultatea de Matematică și Informatică.
@@ -32,5 +32,5 @@ Ambele facultăți vă pot pregăti pentru o viitoare carieră, depinde foarte m
 cele două, dacă veți lucra pe un post de programator, veți vedea că angajații provin din ambele instituții.
 
 4. Recomandarea noastră este să vă uitați pe planurile de învățământ ale celor două instituții și să vă gândiți ce vă avantajează cel
-mai mult. Planul nostru de învățământ poate fi găsit [aici](http://fmi.unibuc.ro/ro/plan_invatamant_2019_2020/). Vă recomandăm să îl studiați și să ne contactați aici sau pe pagina noastră de Facebook pentru a primi informații suplimentare.
+mai mult. Planul nostru de învățământ poate fi găsit [aici](http://fmi.unibuc.ro/ro/plan_invatamant_2019_2020/). Vă recomandăm să îl studiați și să ne contactați aici sau pe [pagina noastră de Facebook](https://www.facebook.com/fmi.ub/) pentru a primi informații suplimentare.
 {{< /section >}}
