@@ -35,7 +35,7 @@ async function sendQuestion() {
         messageText.textContent = "Întrebare trimisă cu succes!";
       }
       else if(res.status == 500) {
-        console.log(await res.json());
+        console.log(res.json());
       }  
 
       $("#myModal").modal();
