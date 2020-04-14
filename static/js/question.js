@@ -13,7 +13,7 @@ async function sendQuestion() {
   const email = document.getElementById("email").value;
   const question = document.getElementById("question").value;
   const checkbox = document.getElementById("termeni").checked;
-
+  const messageText = document.getElementById("messageText");
   const data = {
     email,
     question,
@@ -28,10 +28,16 @@ async function sendQuestion() {
       headers: {
         "Content-Type": "application/json",
       },
-      mode:"no-cors",
-      body: JSON.stringify(data),
+        body: JSON.stringify(data),
     }).then((res) => {
       console.log(res.status);
+      if(res.status == 200) {
+        messageText.textContent = "Întrebare trimisă cu succes!";
+      }
+      else if(res.status == 500) {
+        console.log(await res.json());
+      }  
+
       $("#myModal").modal();
     })
   }
