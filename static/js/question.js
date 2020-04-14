@@ -31,7 +31,7 @@ async function sendQuestion() {
         body: JSON.stringify(data),
     }).then((res) => {
       console.log(res.status);
-      if(res.status == 200) {
+      if(res.status == 201) {
         messageText.textContent = "Întrebare trimisă cu succes!";
       }
       else if(res.status == 500) {
@@ -42,7 +42,9 @@ async function sendQuestion() {
     })
   }
   else {
-    alert("Trebuie să fii de acord cu Termenii și Condițiile!");
+    messageText.textContent = "Trebuie să fii de acord cu Termenii și Condițiile!";
+    $("#myModal").modal();
+
   }
 }
 
