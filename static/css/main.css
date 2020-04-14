@@ -38,10 +38,14 @@ main {
   font-size: 1.2rem;
 }
 
-  
+
 @media (min-width: 768px) and (max-width: 1200px) {
   .header-lead {
     font-size: 3.5em;
+  }
+
+  #modalTC > .modal-dialog {
+    max-width: 90%;
   }
 }
 
@@ -66,5 +70,8 @@ main {
   .header-lead {
     margin-bottom: 80px;
     margin-top: 60px;
+  }
+  #modalTC > .modal-dialog {
+    max-width: 80%;
   }
 }
