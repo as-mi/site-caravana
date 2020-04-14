@@ -63,7 +63,7 @@ weight: 1000
             </label>
         </div>
         <br/>
-        <div class="g-recaptcha" data-sitekey="6Lc2GukUAAAAAO_T15aHKEYmlRas5ujqEyM8EMpI" data-callback="captchaSuccessful"></div>
+        <div class="g-recaptcha" data-sitekey="6Lea9ugUAAAAAGKTqOhL4GkOwPRoFRB_eSZ7fN0u" data-callback="captchaSuccessful"></div>
         <br/>
     <button type="button" class="btn btn-secondary" onclick="sendQuestion()" id="submitButton" disabled>Trimite!</button>
 </form>
