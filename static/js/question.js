@@ -30,11 +30,13 @@ async function sendQuestion() {
       },
       mode:"no-cors",
       body: JSON.stringify(data),
+    }).then((res) => {
+      console.log(res.status);
+      $("#myModal").modal();
     })
-    console.log(await resp.status);
   }
   else {
     alert("Trebuie să fii de acord cu Termenii și Condițiile!");
   }
-
 }
+

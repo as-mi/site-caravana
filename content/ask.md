@@ -5,6 +5,26 @@ menu: main
 weight: 1000
 ---
 
+<div id="myModal" class="modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Modal body text goes here.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 {{< section "Nu ai găsit ce căutai?" >}}
 
 <form>
@@ -43,7 +63,7 @@ weight: 1000
             </label>
         </div>
         <br/>
-        <div class="g-recaptcha" data-sitekey="6Lea9ugUAAAAAGKTqOhL4GkOwPRoFRB_eSZ7fN0u" data-callback="captchaSuccessful"></div>
+        <div class="g-recaptcha" data-sitekey="6Lc2GukUAAAAAO_T15aHKEYmlRas5ujqEyM8EMpI" data-callback="captchaSuccessful"></div>
         <br/>
     <button type="button" class="btn btn-secondary" onclick="sendQuestion()" id="submitButton" disabled>Trimite!</button>
 </form>
