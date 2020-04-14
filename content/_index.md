@@ -40,7 +40,7 @@ Modul de gândire dezvoltat pe parcursul anilor de studiu îi recomandă pe stud
 După absolvire există posibilitatea de a opta pentru continuarea studiilor la Master, atât la noi, cât și la orice altă universitate din țară sau din străinătate.
 
 
-Totodată, mediul este primitor, încurajând dezvoltarea nu doar pe plan profesional, cât și pe plan personal. Te poți implica oricând în tot felul de activități studențești, concursuri, atât naționale cât și internaționale, poți participa la hackathon sau olimpiade și, de ce nu, și la petreceri. Dacă îți faci griji că nu te potrivești în acest mediu, că nu o să îți poți face prieteni și că vii singur într-un oraș mare, stai calm, o să te integrezi mult mai ușor decât x-ul ăla de la subiectul 3.
+Totodată, mediul este primitor, încurajând dezvoltarea nu doar pe plan profesional, cât și pe plan personal. Te poți implica oricând în tot felul de activități studențești, concursuri, atât naționale cât și internaționale, poți participa la Hackathoane sau olimpiade și, de ce nu, și la petreceri. Dacă îți faci griji că nu te potrivești în acest mediu, că nu o să îți poți face prieteni și că vii singur într-un oraș mare, stai calm, o să te integrezi mult mai ușor decât x-ul ăla de la subiectul 3.
 
 
 Așa cum ați aflat deja, FMI nu vine de la Fondul Monetar Internațional, ci de la ceea ce reprezintă, pentru mulți dintre studenți, cei mai frumoși ani. Ce trebuie să faci? Acceptă provocarea și vino să îți construiești alături de noi viitorul la care visezi.
