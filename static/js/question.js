@@ -25,5 +25,7 @@ async function sendQuestion() {
       "Content-Type": "application/json",
     },
     body: JSON.stringify(data),
-  });
+  }).then(() => {
+    alert("Intrebare trimisa cu succes!");
+  })
 }
