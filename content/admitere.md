@@ -14,7 +14,7 @@ weight: 100
 - Pentru **DL Calculatoare și Tehnologia Informaţiei** candidatul va rezolva 2 subiecte formate din câte 15 grile fiecare după cum urmează: subiectul de matematică este obligatoriu, iar la alegere se tratează subiectul de informatică sau fizică.
 - Pentru **DL Informatică – forma de învăţământ la distanţă / învăţământ cu frecvenţă redusă** concursul constă într-o probă orală.
  
-Admiterea la **DL Matematică** şi **DL Informatică** va avea loc în aceeaşi zi, cu aceleaşi subiecte. Candidaţii pot opta la înscriere atât pentru Domeniul de licenţă Matematică cât şi pentru Domeniul de licenţă Informatică, forma de învăţământ cu frecvență. Candidaţii care se vor înscrie la Domeniul de licenţă Informatică vor trata, obligatoriu, un subiect de informatică şi, la alegere, unul dintre celelalte trei subiecte propuse.
+Admiterea la **DL Matematică** şi **DL Informatică** va avea loc în aceeaşi zi, cu aceleaşi subiecte. Candidaţii pot opta la înscriere atât pentru Domeniul de licenţă Matematică cât şi pentru Domeniul de licenţă Informatică, forma de învăţământ cu frecvență. Candidaţii care se vor înscrie la Domeniul de licenţă Informatică vor trata obligatoriu subiectul de informatică şi, la alegere, unul dintre celelalte trei subiecte propuse.
 
 **Media minima de admitere este 5.**
 
@@ -80,7 +80,7 @@ Da. În timpul examenului, poți alege să tratezi două din cele 4 subiecte, cu
 {{< section `La subiectele de informatică, cum este recomandat să explicăm programele? În dreptul
 liniilor sau după fiecare subpunct?` >}}
 
-Depinde. Algoritmii pe care îi folosiți, modul în care ați gândit soluția și modul în care o implementați este recomandabil să le scrieți separat, pentru că e mai mult de scris și dacă o faceți direct în cod, va fi mai greu de citit codul. În același timp, explicațiile care se referă la semnificația variabilelor sau a instrucțiunilor mai importante, pe care le folosiți în program, este mai bine să le scrieți direct în cod, sub formă de comentarii, pentru a fi mai ușor de înțeles când se parcurge codul.
+Depinde de algoritmii pe care îi folosiți, modul în care ați gândit soluția și modul în care o implementați. Este recomandabil să le scrieți separat, pentru că este mai mult de scris și dacă o faceți direct în cod, va fi mai greu de citit codul. În același timp, explicațiile care se referă la semnificația variabilelor sau a instrucțiunilor mai importante, pe care le folosiți în program, este mai bine să le scrieți direct în cod, sub formă de comentarii, pentru a fi mai ușor de înțeles când se parcurge codul.
 
 {{< /section >}}
 
@@ -106,8 +106,7 @@ Da. Primii 15-20% (depinde de la an la an) dintre cei clasați vor primi bursă 
 
 {{< section `Care sunt concursurile care se iau în considerare pentru admiterea fără examen?` >}}
 
-Pentru lista completă a concursurilor, poți consulta [acest extras](http://fmi.unibuc.ro/ro/pdf/2019/admitere/licenta/Dreptul_de_inscriere_la_concurs-
-extras_din_Metodologia_FMI_de_admitere_2019.pdf). Pentru admitere fără susținerea examenului scris, se iau în considerare doar premiile individuale, nu și cele obținute pe echipe.
+Pentru lista completă a concursurilor, poți consulta [acest extras](http://fmi.unibuc.ro/ro/pdf/2019/admitere/licenta/Dreptul_de_inscriere_la_concurs-extras_din_Metodologia_FMI_de_admitere_2019.pdf). Pentru admitere fără susținerea examenului scris, se iau în considerare doar premiile individuale, nu și cele obținute pe echipe.
 
 {{< /section >}}
 
