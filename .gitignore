@@ -2,4 +2,5 @@
 /public/
 /resources/
 /.vscode/
+/backend/node_modules/
 package-lock.json

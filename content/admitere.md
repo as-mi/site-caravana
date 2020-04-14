@@ -2,7 +2,7 @@
 title: "Admitere"
 heading: "Informații despre admitere"
 menu: main
-weight: 100
+weight: 150
 ---
 
 {{< section `Informații generale` >}}
