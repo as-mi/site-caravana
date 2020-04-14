@@ -23,7 +23,7 @@ async function sendQuestion() {
 
   console.log(data);
   if(checkbox === true) {
-    const resp = await fetch("http://localhost:3000/questions/new", {
+    const resp = await fetch("/questions/new", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
