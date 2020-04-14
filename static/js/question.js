@@ -39,6 +39,7 @@ async function sendQuestion() {
       }  
 
       $("#myModal").modal();
+       window.location.reload(); 
     })
   }
   else {
