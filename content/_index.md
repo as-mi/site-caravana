@@ -1,20 +1,12 @@
 ---
 title: "Despre FMI"
-heading: "Descoperă Facultatea de Matematică și Informatică!"
+heading: "Descoperă Facultatea de Matematică și Informatică a Universității din București!"
 layout: "single"
 menu: main
 weight: -200
 ---
 
 {{< youtube ZgG5iMM5zjI >}}
-
-{{< section `Ce este Caravana?` >}}
-
-Caravana Educațională este proiectul desfășurat de [Asociația Studenților
-la Matematică și Informatică](http://as-mi.ro) prin care prezentăm
-facultatea noastră în țară.
-
-{{< /section >}}
 
 
 {{< section `Despre Facultatea de Matematică și Informatică` >}}
@@ -44,5 +36,12 @@ Totodată, mediul este primitor, încurajând dezvoltarea nu doar pe plan profes
 
 
 Așa cum ați aflat deja, FMI nu vine de la Fondul Monetar Internațional, ci de la ceea ce reprezintă, pentru mulți dintre studenți, cei mai frumoși ani. Ce trebuie să faci? Acceptă provocarea și vino să îți construiești alături de noi viitorul la care visezi.
+
+{{< /section >}}
+
+
+{{< section `Ce este Caravana?` >}}
+
+Caravana Educațională este proiectul desfășurat de [Asociația Studenților la Matematică și Informatică](https://asmi.ro) care are ca scop prezentarea și informarea elevilor de liceu din țară cu privire la oferta educațională și la oportunitățile pe care le oferă [Facutatea de Matematică și Informatică din cadrul Universității din București](http://fmi.unibuc.ro/).
 
 {{< /section >}}
