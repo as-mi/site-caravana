@@ -6,7 +6,7 @@ menu: main
 weight: -200
 ---
 
-{{< youtube ZgG5iMM5zjI >}}
+{{< youtube 76ku86IKfBY >}}
 
 
 {{< section `Despre Facultatea de Matematică și Informatică` >}}
