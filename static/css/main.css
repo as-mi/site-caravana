@@ -12,6 +12,15 @@
   font-family: "Bellota Text", cursive;
 }
 
+p {
+  text-align: justify;
+}
+
+.embed-responsive {
+  max-width: 85em;
+  margin:auto;
+}
+
 main {
   padding: 0 15px;
 }
@@ -36,6 +45,8 @@ main {
   background-color: white;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
   font-size: 1.2rem;
+    max-width: 70em;
+
 }
 
 
