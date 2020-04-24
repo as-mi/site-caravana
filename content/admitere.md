@@ -132,14 +132,9 @@ Locurile la cămin pentru anul I se acordă în ordinea descrescătoare a mediil
 
 {{< section `Cât este taxa de înscriere?` >}}
 
-- Înscriere online :
-* Primul domeniu → 150 RON
-* Al doilea domeniu → 75 RON
-* Al treilea domeniu → 75 RON
-- Înscriere la facultate:
-* Primul domeniu → 200 RON
-* Al doilea domeniu → 100 RON
-* Al treilea domeniu → 100 RON
+ - Primul domeniu → 150 RON
+ - Al doilea domeniu → 75 RON
+ - Al treilea domeniu → 75 RON
 
 {{< /section >}}
 
