@@ -28,7 +28,7 @@ Absolvenții de **Matematică-Informatică** sunt cei care au o pasiune atât pe
 
 {{< section `Dacă mă duc la mate-info, pot să iau și licența de la info?` >}}
 
-**Da**. După finalizarea cursurilor de licență în domeniul Matematică, vei fi nevoit să dai din nou admiterea la domeniul Informatică și, după ce ești admis, vei face doar anul 3 de la info pentru pentru a acoperi toată materia și pentru a-ți termina licența în Informatică.
+**Da**. După finalizarea cursurilor de licență în domeniul Matematică, vei fi nevoit să dai din nou admiterea la domeniul Informatică și, după ce ești admis, vei face doar anul 3 de la info pentru a acoperi toată materia și pentru a-ți termina licența în Informatică.
 
 {{< /section >}}
 
