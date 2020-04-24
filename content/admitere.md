@@ -7,7 +7,7 @@ weight: 150
 
 {{< section `Informații generale` >}}
 
-### *Admiterea constă într-o probă scrisă cu timp de lucru 3 ore.*
+### *[Admiterea](http://fmi.unibuc.ro/ro/admitere_licenta/examen_admitere_iulie_2020/) constă într-o probă scrisă cu timp de lucru 3 ore.*
 
 - Pentru **DL Matematică** candidatul primeşte 4 subiecte (câte unul din disciplinele: informatică, algebră, analiză matematică, geometrie şi elemente de trigonometrie) din care va trata două la alegere.
 - Pentru **DL Informatică** candidatul va trata obligatoriu, subiectul de informatică şi, la alegere, unul dintre cele trei subiecte de matematică propuse (algebră, analiză matematică, geometrie şi elemente de trigonometrie).
@@ -57,11 +57,12 @@ Pentru DL Informatică – forma de învățământ la distanță / învățăm�
 
 {{< section `Înscrierea online` >}}
 
-Pentru a facilita procesul de admitere și pentru a îmbunătăți experiența candidaților, facultatea va dispune de o platformă online pe care vă veți putea înscrie pentru a da admiterea. Dacă alegeți această variantă, nu mai este nevoie să veniți la facultate decât la susținerea probei de concurs și apoi la confirmarea locului (de admis sau în așteptare). În plus, beneficiați de o reducere de 25% din valoarea taxei de înscriere. Cel mai mare avantaj este faptul că astfel evitați cozile care se pot forma la facultate, atât la depunerea actelor cât și la plata taxei. 
+**Anul acesta înscrierile se vor face exclusiv online.**
+Pentru a facilita procesul de admitere și pentru a îmbunătăți experiența candidaților, facultatea va dispune de o platformă online pe care vă veți putea înscrie pentru a da admiterea. 
 
-Candidații care au susținut bacalaureatul în sesiunea curentă - 2020 - se pot înscrie online fără diploma sau adeverința de bacalaureat, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEN. Înscrierea pe baza rezultatelor la bacalaureat descărcate din SIIIR este disponibilă și la facultate, dar doar după publicarea rezultatelor finale în SIIIR de către MEN.
+Candidații care au susținut bacalaureatul în sesiunea curentă - 2020 - se pot înscrie online fără diploma sau adeverința de bacalaureat, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEN. 
 
-Mai multe diferențe explicate în detaliu dintre înscrierea online și cea la facultate puteți găsi [aici](http://fmi.unibuc.ro/ro/pdf/2019/admitere/licenta/Inscriere_online_vs_inscriere_la_facultate-admitere_2019.pdf)
+Mai multe detalii despre înscrierea online și despre platforma care va fi folosită vor apărea pe [pagina oficială a facultății](http://fmi.unibuc.ro/ro/admitere_licenta/examen_admitere_iulie_2020/).
 
 {{< /section >}}
 
@@ -132,13 +133,13 @@ Locurile la cămin pentru anul I se acordă în ordinea descrescătoare a mediil
 {{< section `Cât este taxa de înscriere?` >}}
 
 - Înscriere online :
-Primul domeniu → 150 RON
-Al doilea domeniu → 75 RON
-Al treilea domeniu → 75 RON
+* Primul domeniu → 150 RON
+* Al doilea domeniu → 75 RON
+* Al treilea domeniu → 75 RON
 - Înscriere la facultate:
-Primul domeniu → 200 RON
-Al doilea domeniu → 100 RON
-Al treilea domeniu → 100 RON
+* Primul domeniu → 200 RON
+* Al doilea domeniu → 100 RON
+* Al treilea domeniu → 100 RON
 
 {{< /section >}}
 
