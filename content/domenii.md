@@ -1,6 +1,6 @@
 ---
-title: "Specializări"
-heading: "Specializările FMI"
+title: "Domenii"
+heading: "Domeniile FMI"
 menu: main
 weight: 100
 ---
