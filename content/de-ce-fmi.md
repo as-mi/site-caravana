@@ -7,7 +7,8 @@ weight: 50
 
 
 {{< section `De ce să aleg București în loc de alte orașe?` >}}
-Diferențele nu sunt mari între facultățile din alte orașe. În mare parte, trebuie să te gândești în ce oraș ți-ai dori să locuiești și care sunt oportunitățile pe care ți le oferă. În București, de exemplu, fiind un oraș foarte mare, sunt multe companii și corporații care își au sediile deschise aici. Totodată, aici poți găsi o comunitate mare de pasionați de tehnologie, multe meetup-uri, workshop-uri, conferințe sau poți chiar să găsești investitori pentru ideile tale. Pe lângă toate acestea, Bucureștiul este un oraș plin de viață, unde îți poți petrece timpul liber participând la concerte, vizitând atracțiile locale sau plimbându-te prin parcuri sau prin Centrul Vechi, facultatea noastră fiind plasată chiar la marginea
+Diferențele nu sunt mari între facultățile din alte orașe. În mare parte, trebuie să te gândești în ce oraș ți-ai dori să locuiești și care sunt oportunitățile pe care ți le oferă. În București, de exemplu, fiind un oraș foarte mare, sunt multe companii și corporații care își au sediile deschise aici.
+Totodată, aici poți găsi o comunitate mare de pasionați de tehnologie, multe meetup-uri, workshop-uri, conferințe sau poți chiar să găsești investitori pentru ideile tale. Pe lângă toate acestea, Bucureștiul este un oraș plin de viață, unde îți poți petrece timpul liber participând la concerte, vizitând atracțiile locale sau plimbându-te prin parcuri sau prin Centrul Vechi, facultatea noastră fiind plasată chiar la marginea
 acestuia.
 {{< /section >}}
 
@@ -30,7 +31,7 @@ dezvoltare, astfel că multe companii românești și multinaționale și-au des
 
 Ambele facultăți vă pot pregăti pentru o viitoare carieră, depinde foarte mult ce vă doriți. O să enumerăm [câteva diferențe](https://www.youtube.com/watch?v=HS_WAE6sJ0A) și o recomandare pe care noi o facem.
 
-În primul rând, de la Facultatea de Automatică și Calculatoare sunteți mai mult îndreptați spre partea de Computer Engineering, pe când de la Informatică vă îndreptați spre Computer Science. Poate în momentul de față nu vă sunt clare aceste diferențe, dar e ok. Încercăm să le clarificăm în continuare.
+În primul rând, de la Facultatea de Automatică și Calculatoare sunteți mai mult îndreptați spre partea de **Computer Engineering**, pe când de la Informatică vă îndreptați spre **Computer Science**. Poate în momentul de față nu vă sunt clare aceste diferențe, dar e ok. Încercăm să le clarificăm în continuare.
 
 {{< imageRowRight "/img/2.svg" >}}
 
