@@ -41,7 +41,7 @@ Admiterea la **DL Matematică** şi **DL Informatică** va avea loc în aceeaşi
      - Învățământ la distanță / Invatamant cu frecventa redusa: 75 locuri (3600 ron/an)
 3. DL Calculatoare și Tehnologia Informației: 100
      - 75 locuri la buget
-     - 25 locuri la taxa
+     - 25 locuri la taxa (4400 ron/an)
 
 {{< /section >}}
 
