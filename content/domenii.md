@@ -64,3 +64,9 @@ Absolvenții de la CTI pot lucra atât ca programatori, cât și ca administrato
 Învățământul la distanță se caracterizează prin utilizarea resurselor electronice și activități de autoînvățare completate de ore la facultate care se vor ține săptămânal, în weekend. Astfel, ți se oferă posibilitatea de a parcurge toată materia de la învățământul cu frecvență și să îți obții licența în informatică, putând totodată să te concentrezi pe alte activități productive.
 
 {{< /section >}}
+
+{{< section `Ce modificări vor fi aduse planurilor de învățământ?` >}}
+
+Începând cu anul universitar 2019-2020, planurile de învățământ de la toate domeniile au început să fie actualizate, începând cu cei care au intrat anul I. Pentru anii următori, planurile de învățământ actualizate vor fi publicate când generația actuală va ajunge anul II, respectiv III (și anul IV pentru CTI).
+
+{{< /section >}}
