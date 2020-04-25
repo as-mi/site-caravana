@@ -7,7 +7,7 @@ weight: 150
 
 {{< section `Anunț` >}}
 
-Informațiile despre organizarea admiterii sunt deocamdată provizorii. Sunt multe posibilități care trebuie luate în calcul, și totul depinde de perioada imediat următoare. Noi sperăm ca pana la 15 mai să avem toate informațiile necesare.
+Informațiile despre organizarea admiterii sunt deocamdată provizorii. Sunt multe posibilități care trebuie luate în calcul, și totul depinde de perioada imediat următoare. Noi sperăm ca până la 15 mai să avem toate informațiile necesare.
 
 Varianta preferată este cea "face to face" cu formatul din anii anteriori, dar siguranța va fi pusă pe primul loc, așa că se ia în calcul schimbarea datei admiterii sau susținerea ei online.
 
