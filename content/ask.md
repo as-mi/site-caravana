@@ -191,6 +191,6 @@ trimis.
         <br/>
         <div class="g-recaptcha" data-sitekey="6Lc2GukUAAAAAO_T15aHKEYmlRas5ujqEyM8EMpI" data-callback="captchaSuccessful"></div>
         <br/>
-    <button type="button" class="btn btn-secondary" onclick="sendQuestion()" id="submitButton">Trimite!</button>
+    <button type="button" class="btn btn-secondary" onclick="sendQuestion()" id="submitButton" disabled>Trimite!</button>
 </form>
 {{< /section >}}
