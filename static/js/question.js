@@ -33,9 +33,11 @@ async function sendQuestion() {
     }).then((res) => {
       console.log(res.status);
       if (res.status == 201) {
+        grecaptcha.reset();
         messageText.textContent = "Întrebare trimisă cu succes!";
         messageExp.textContent = "Ne vom întoarce cu un răspuns în curând!";
       } else if (res.status == 500) {
+        grecaptcha.reset();
         messageText.textContent = "Eroare la trimiterea întrebării";
         messageExp.textContent =
           "Te rugăm să verifici dacă adresa de e-mail este una validă.";
@@ -44,6 +46,7 @@ async function sendQuestion() {
       $("#myModal").modal();
     });
   } else {
+    grecaptcha.reset();
     messageText.textContent =
       "Trebuie să fii de acord cu Termenii și Condițiile!";
     messageExp.textContent =
