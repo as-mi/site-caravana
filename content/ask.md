@@ -132,19 +132,18 @@ trimis.
   </div>
 </div>
 
-
 <div id="myModal" class="modal" tabindex="-1" role="dialog">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="messageText">Modal title</h5>
+        <h5 class="modal-title" id="messageTitle">Modal title</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <!--<div class="modal-body">
-        <p id="messageText"> </p>
-      </div>--> 
+      <div class="modal-body">
+        <p id="messageExp"> </p>
+      </div> 
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
       </div>
@@ -192,6 +191,6 @@ trimis.
         <br/>
         <div class="g-recaptcha" data-sitekey="6Lc2GukUAAAAAO_T15aHKEYmlRas5ujqEyM8EMpI" data-callback="captchaSuccessful"></div>
         <br/>
-    <button type="button" class="btn btn-secondary" onclick="sendQuestion()" id="submitButton" disabled>Trimite!</button>
+    <button type="button" class="btn btn-secondary" onclick="sendQuestion()" id="submitButton">Trimite!</button>
 </form>
 {{< /section >}}
