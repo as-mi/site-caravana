@@ -5,6 +5,16 @@ menu: main
 weight: 150
 ---
 
+{{< section `Anunț` >}}
+
+Informațiile despre organizarea admiterii sunt deocamdată provizorii. Sunt multe posibilități care trebuie luate în calcul, și totul depinde de perioada imediat următoare. Noi sperăm ca pana la 15 mai să avem toate informațiile necesare.
+
+Varianta preferată este cea "face to face" cu formatul din anii anteriori, dar siguranța va fi pusă pe primul loc, așa că se ia în calcul schimbarea datei admiterii sau susținerea ei online.
+
+Vom actualiza site-ul îndată ce aflăm :)
+
+{{< /section >}}
+
 {{< section `Informații generale` >}}
 
 ### *[Admiterea](http://fmi.unibuc.ro/ro/admitere_licenta/examen_admitere_iulie_2020/) constă într-o probă scrisă cu timp de lucru 3 ore.*
