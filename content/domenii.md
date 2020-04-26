@@ -5,6 +5,12 @@ menu: main
 weight: 100
 ---
 
+{{< section `Cum mă pot pregăti pentru admiterea la informatică?` >}}
+
+Suntem conștienți că în funcție de liceu și specializare, este posibil să ai parte de mai multă sau mai puțină pregătire în domeniul informaticii. Din fericire, munca temeinică te poate ajuta să iei o notă bună la examenul de admitere. Încă din clasa a 11-a poți să începi să te pregătești cu subiecte de bacalaureat și de admitere, și să vezi unde mai ai dificultăți.
+
+{{< /section >}}
+
 
 {{< section `Care este diferența dintre specializările domeniului Matematică?` >}}
 
@@ -16,12 +22,10 @@ Absolvenții de **Matematică pură** sunt cei care se îndreaptă către învă
 
 ### 2. Matematici aplicate:
 Absolvenții de **Matematici aplicate** sunt cei care urmează să lucreze ca matematicieni în mediul economic, în special analist de date, cercetare prospectivă sau Data Scientist (mai nou) în bănci, finanțe, asigurări, pensii sau piață. La acest program, se pune accentul pe metode matematice și statistice aplicate în industrie și în economie și pe software matematic folosit pentru implementarea acestor metode.
+
 ### 3. Matematică-Informatică:
 Absolvenții de **Matematică-Informatică** sunt cei care au o pasiune atât pentru matematică, cât și pentru informatică, și își doresc să le studieze pe amândouă, într-un program comun, la un nivel care să le permită ulterior să se îndrepte în oricare dintre cele 2 direcții. În cadrul programului de Matematică-Informatică, se fac 2 ani din planul de învățământ de la Informatică, dar într-un mod mai gradual, care permite și celor care nu știau informatică deloc la intrarea în facultate să ajungă la un nivel suficient de bun și apoi, după primii trei ani de licență, să mai facă un an suplimentar de Informatică și să obțină și licența în Informatică.
-
 {{< /imageRowRight >}}
-
-
 
 {{< /section >}}
 
@@ -56,6 +60,7 @@ Facultatea de Matematică și Informatică oferă acest program în parteneriat 
 
 Absolvenții de la CTI pot lucra atât ca programatori, cât și ca administratori și proiectanți de rețele de calculatoare, de baze de date, ca analiști de sistem, ingineri de testare etc.
 {{< /imageRowLeft >}}
+
 {{< /section >}}
 
 
@@ -64,6 +69,7 @@ Absolvenții de la CTI pot lucra atât ca programatori, cât și ca administrato
 Învățământul la distanță se caracterizează prin utilizarea resurselor electronice și activități de autoînvățare completate de ore la facultate care se vor ține săptămânal, în weekend. Astfel, ți se oferă posibilitatea de a parcurge toată materia de la învățământul cu frecvență și să îți obții licența în informatică, putând totodată să te concentrezi pe alte activități productive.
 
 {{< /section >}}
+
 
 {{< section `Ce modificări vor fi aduse planurilor de învățământ?` >}}
 
