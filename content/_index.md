@@ -19,7 +19,7 @@ Facultatea pune la dispoziție 3 domenii de licență, primele 2 desfășurându
 {{< /imageRowRight >}}
 
 
-Ce studiezi aici? **Algoritmică, Robotică, Inteligență Artificială, Sisteme de Operare, Baze de Date, Programare Orientată pe Obiecte, Criptografie**. Cu alte cuvinte, ceea ce făcea băiatul din Mr. Robot nu o să ți se mai pară o limbă străină.
+Ce studiezi aici? **Algoritmică, Inteligență Artificială, Sisteme de Operare, Baze de Date, Programare Orientată pe Obiecte, Criptografie**. De asemenea, de-a lungul facultății poți opta să participi la cursurile oferite de [Unibuc Robotics](https://www.facebook.com/unibuc.robotics/) unde vei studia **3D Printing, Robotică, Internet of Things** și multe altele. Cu alte cuvinte, ceea ce făcea băiatul din Mr. Robot nu o să ți se mai pară o limbă străină.
 
 
 Studenții noștri reușesc să își găsească foarte ușor locuri de muncă, spunem "studenții", ci nu "absolvenții", pentru că de multe ori se întâmplă ca aceștia să își găsească primul internship înainte de finalizarea studiilor, unii chiar din timpul anului 1.
