@@ -55,16 +55,6 @@ Admiterea la **DL Matematică** şi **DL Informatică** va avea loc în aceeaşi
 
 {{< /section >}}
 
-{{< section `Calendar admitere**` >}}
-- 14 iulie 2020 – DL Matematică si DL Informatică
-- 15 iulie 2020 – DL Calculatoare și Tehnologia Informației
-
-Pentru DL Informatică – forma de învățământ la distanță / învățământ cu frecvență redusă înscrierile vor avea loc în septembrie
-
-** Pot apărea eventuale modificări datorate situației actuale. Dacă vor apărea, vom actualiza site-ul cât de rapid posibil:)
-
-{{< /section >}}
-
 {{< section `Înscrierea online` >}}
 
 **Anul acesta înscrierile se vor face exclusiv online.**
