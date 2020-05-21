@@ -6,6 +6,8 @@ menu: main
 weight: -200
 ---
 
+{{< youtube PViAo7TEFvI >}}
+
 {{< section `Despre Facultatea de Matematică și Informatică` >}}
 
 {{< imageRowRight "/img/univ.svg">}}
