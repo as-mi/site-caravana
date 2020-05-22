@@ -50,5 +50,5 @@ cele două, dacă veți lucra pe un post de programator, veți vedea că angaja�
 {{< /imageRowLeft>}}
 
 Recomandarea noastră este să vă uitați pe planurile de învățământ ale celor două instituții și să vă gândiți ce vă avantajează cel
-mai mult. Planul nostru de învățământ poate fi găsit [aici](http://fmi.unibuc.ro/ro/plan_invatamant_2019_2020/). Vă recomandăm să îl studiați și să ne contactați aici sau pe [pagina noastră de Facebook](https://www.facebook.com/fmi.ub/) pentru a primi informații suplimentare.
+mai mult. Planul nostru de învățământ poate fi găsit [aici](https://fmi.unibuc.ro/programe-de-studii/). Vă recomandăm să îl studiați și să ne contactați aici sau pe [pagina noastră de Facebook](https://www.facebook.com/fmi.ub/) pentru a primi informații suplimentare.
 {{< /section >}}
