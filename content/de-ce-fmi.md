@@ -37,7 +37,7 @@ Ambele facultăți vă pot pregăti pentru o viitoare carieră, depinde foarte m
 
 La Automatică, pe lângă cursurile de matematică și de informatică, există și cursuri de fizică. Pe lângă partea de software, se face și hardware. Programul de studiu oferit de această facultate se împarte în două specializări: CTI și IS, IS fiind mai axat pe partea de hardware și embedded. Durata programului de studiu este de 4 ani. Domeniul CTI la ambele facultăți este asemănător. 
 
-La domeniul Informatică, în schimb, axându-ne pe partea de software, reușim să aprofundăm mai mult în partea de Computer Science, studiind și anumite noțiuni teoretice de informatică, noțiuni care, mai târziu, vor putea fi utilizate pentru a optimiza diferite procese. La multe cursuri pe care le veți susține la facultatea noastră, va fi nevoie să dezvoltați diferite aplicații software, precum aplicații web, care să respecte diferite cerințe, printre care și integrarea mai multor tehnologii pentru a obține un produs asemănător cu ceea ce găsim în piața de software astăzi.
+La domeniul Informatică, unde durata programului de studiu este de 3 ani, ne axăm pe partea de software și reușim să aprofundăm mai mult partea de Computer Science, studiind și anumite noțiuni teoretice de informatică, noțiuni care, mai târziu, vor putea fi utilizate pentru a optimiza diferite procese. La multe cursuri pe care le veți susține la facultatea noastră, va fi nevoie să dezvoltați diferite aplicații software, precum aplicații web, care să respecte diferite cerințe, printre care și integrarea mai multor tehnologii pentru a obține un produs asemănător cu ceea ce găsim în piața de software astăzi.
 
 {{< /imageRowRight >}}
 
