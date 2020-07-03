@@ -8,6 +8,12 @@ weight: -200
 
 {{< youtube PViAo7TEFvI >}}
 
+{{< section `Anunț` >}}
+
+Admiterea la Facultatea de Matematică și Informatică a început! Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https://fmi.unibuc.ro/admitere-licenta-iulie-2020/) de pe site-ul oficial FMI și să va înscrieți în [grupul de Facebook al candidaților](https://www.facebook.com/groups/1127847707592197/) unde voluntarii ASMI vă pot răspunde la întrebări.
+
+{{< /section >}}
+
 {{< section `Despre Facultatea de Matematică și Informatică` >}}
 
 {{< imageRowRight "/img/univ.svg">}}
