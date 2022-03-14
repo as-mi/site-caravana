@@ -7,7 +7,7 @@ weight: 150
 
 {{< section `Anunț` >}}
 
-Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https://fmi.unibuc.ro/admitere-licenta-iulie-2020/) de pe site-ul oficial FMI.
+Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https://fmi.unibuc.ro/admitere-licenta-iulie-2022/) de pe site-ul oficial FMI.
 
 {{< /section >}}
 
@@ -16,7 +16,7 @@ Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https
 **Anul acesta înscrierile se vor face exclusiv online.**
 Pentru a facilita procesul de admitere și pentru a îmbunătăți experiența candidaților, facultatea va dispune de o platformă online pe care vă veți putea înscrie pentru a da admiterea. 
 
-Candidații care au susținut bacalaureatul în sesiunea curentă - 2020 - se pot înscrie online fără diploma sau adeverința de bacalaureat, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEN. 
+Candidații care au susținut bacalaureatul în sesiunea curentă - 2022 - se pot înscrie online fără diploma sau adeverința de bacalaureat, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEN. 
 
 Mai multe detalii despre înscrierea online și despre platforma care va fi folosită vor apărea pe [pagina oficială a facultății](http://fmi.unibuc.ro/ro/admitere_licenta/examen_admitere_iulie_2020/).
 
@@ -38,7 +38,7 @@ Cu alte cuvinte, nu există un tipar pentru această scrisoare de intenție. Pri
 
 {{< section `Dacă am notă bună, pot primi bursă?` >}}
 
-Da. Primii 15-20% (depinde de la an la an) dintre cei clasați vor primi bursă de merit, în valoare de 735 lei/lună.
+Da. Primii 15-20% (depinde de la an la an) dintre cei clasați vor primi bursă de merit, în valoare de 760 lei/lună.
 
 {{< /section >}}
 
