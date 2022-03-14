@@ -10,7 +10,7 @@ weight: -200
 
 {{< section `Anunț` >}}
 
-Admiterea la Facultatea de Matematică și Informatică a început! Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https://fmi.unibuc.ro/admitere-licenta-iulie-2022/) de pe site-ul oficial FMI și să va înscrieți în [grupul de Facebook al candidaților](https://www.facebook.com/groups/1127847707592197/) unde voluntarii ASMI vă pot răspunde la întrebări.
+Au apărut informații cu privire la admiterea la Facultatea de Matematică și Informatică! Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https://fmi.unibuc.ro/admitere-licenta-iulie-2022/) de pe site-ul oficial FMI și să va înscrieți în grupul de Facebook al candidaților (va fi disponibil pe pagina admiterii) unde voluntarii ASMI vă pot răspunde la întrebări.
 
 {{< /section >}}
 
