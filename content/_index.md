@@ -6,7 +6,7 @@ menu: main
 weight: -200
 ---
 
-{{< youtube Aq70mqPb_wc >}}
+{{< youtube D6laj4WS6l4 >}}
 
 {{< section `Anunț` >}}
 
