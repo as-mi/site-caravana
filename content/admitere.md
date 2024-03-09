@@ -7,7 +7,7 @@ weight: 150
 
 {{< section `Anunț` >}}
 
-Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https://fmi.unibuc.ro/admitere-licenta-iulie-2022/) de pe site-ul oficial FMI.
+Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https://fmi.unibuc.ro/admitere-licenta-iulie-2024/) de pe site-ul oficial FMI.
 
 {{< /section >}}
 
@@ -16,7 +16,7 @@ Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https
 **Anul acesta înscrierile se vor face exclusiv online.**
 Pentru a facilita procesul de admitere și pentru a îmbunătăți experiența candidaților, facultatea va dispune de o platformă online pe care vă veți putea înscrie pentru a da admiterea. 
 
-Candidații care au susținut bacalaureatul în sesiunea curentă - 2022 - se pot înscrie online fără diploma sau adeverința de bacalaureat, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEN. 
+Candidații care au susținut bacalaureatul în sesiunea curentă - 2024 - se pot înscrie online fără diploma sau adeverința de bacalaureat, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEN. 
 
 Mai multe detalii despre înscrierea online și despre platforma care va fi folosită vor apărea pe [pagina oficială a facultății](http://fmi.unibuc.ro/ro/admitere_licenta/examen_admitere_iulie_2020/).
 
@@ -28,17 +28,15 @@ Da. Înaintea începerii fiecărui an universitar, se va realiza o reclasificare
 
 {{< /section >}}
 
-{{< section `Cum se calculează media de admitere pentru Informatică ID? Există o structură pentru
-redactarea scrisorii de intenție?` >}}
+{{< section `Cum este admiterea la Informatică ID?` >}}
 
-Scrisoarea de intenție constă din cca. 70 linii (adică cca. 1½ pagini) și are rolul de a indica membrilor comisiei de examinare motivele pentru care candidatul dorește și este capabil să urmeze cursurile programului de licență pentru care s-a înscris.
-Cu alte cuvinte, nu există un tipar pentru această scrisoare de intenție. Prin ea, trebuie să convingi comisia de admitere că îți dorești să urmezi cursurile acestei facultăți și că ești capabil să o faci.
+Aceasta va avea loc în luna septembrie, mai multe detalii urmează să fie publicate ulterior pe [site-ul facultații](https://fmi.unibuc.ro/admitere/).
 
 {{< /section >}}
 
 {{< section `Dacă am notă bună, pot primi bursă?` >}}
 
-Da. Primii 15-20% (depinde de la an la an) dintre cei clasați vor primi bursă de merit, în valoare de 760 lei/lună.
+Da. Primii 15-20% (depinde de la an la an) dintre cei clasați vor primi bursă de merit, în valoare de 1200 lei/lună.
 
 {{< /section >}}
 

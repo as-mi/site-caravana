@@ -32,7 +32,7 @@ Absolvenții de **Matematică-Informatică** sunt cei care au o pasiune atât pe
 
 {{< section `Dacă mă duc la mate-info, pot să iau și licența de la info?` >}}
 
-**Da**. După finalizarea cursurilor de licență în domeniul Matematică, vei fi nevoit să dai din nou admiterea la domeniul Informatică și, după ce ești admis, vei face doar anul 3 de la info pentru a acoperi toată materia și pentru a-ți termina licența în Informatică.
+**Da.** După finalizarea cursurilor de licență în domeniul Matematică, vei fi nevoit să dai din nou admiterea la domeniul Informatică și, după ce ești admis, vei face doar anii 2 și 3 de la info pentru a acoperi toată materia și pentru a-ți termina licența în Informatică.
 
 {{< /section >}}
 
@@ -70,9 +70,3 @@ Absolvenții de la CTI pot lucra atât ca programatori, cât și ca administrato
 
 {{< /section >}}
 
-
-{{< section `Ce modificări vor fi aduse planurilor de învățământ?` >}}
-
-Începând cu anul universitar 2019-2020, planurile de învățământ de la toate domeniile au început să fie actualizate, începând cu cei care au intrat anul I. Pentru anii următori, planurile de învățământ actualizate vor fi publicate când generația actuală va ajunge anul II, respectiv III (și anul IV pentru CTI).
-
-{{< /section >}}
