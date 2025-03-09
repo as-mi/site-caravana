@@ -22,17 +22,17 @@
       {{ range .Site.Menus.main }}
         <li class='nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}'>
           <a class="nav-link" href="{{ .URL | absURL }}">
-            {{ .Title }}
+            {{ .Title }} 
           </a>
         </li>
       {{ end }}
     </ul>
     <div class="form-inline my-2 my-lg-0">
       <a class="btn my-2 my-sm-0" href="https://www.facebook.com/asmi.ub" target="_blank">
-        <i class="fab fa-2x fa-facebook"></i>
+        <i class="fab fa-2x fa-facebook text-main"></i>
       </a>
       <a class="btn my-2 my-sm-0" href="https://www.instagram.com/asmi.ub" target="_blank">
-        <i class="fab fa-2x fa-instagram"></i>
+        <i class="fab fa-2x fa-instagram text-main"></i>
       </a>
     </div>
   </div>

@@ -2,14 +2,8 @@
 title: "Admitere"
 heading: "Informații despre admitere"
 menu: main
-weight: 150
+weight: 2
 ---
-
-{{< section `Anunț` >}}
-
-Pentru mai multe informații vă rugăm să consultați pagina [Admiterii](https://fmi.unibuc.ro/admitere-licenta-iulie-2024/) de pe site-ul oficial FMI.
-
-{{< /section >}}
 
 {{< section `Înscrierea online` >}}
 
@@ -22,47 +16,9 @@ Mai multe detalii despre înscrierea online și despre platforma care va fi folo
 
 {{< /section >}}
 
-{{< section `Dacă am intrat la taxă în primul an, este vreo posibilitate de a trece la buget ulterior?` >}}
-
-Da. Înaintea începerii fiecărui an universitar, se va realiza o reclasificare, unde se va ține cont de rezultatele obținute în anul universitar precedent.
-
-{{< /section >}}
 
 {{< section `Cum este admiterea la Informatică ID?` >}}
 
 Aceasta va avea loc în luna septembrie, mai multe detalii urmează să fie publicate ulterior pe [site-ul facultații](https://fmi.unibuc.ro/admitere/).
-
-{{< /section >}}
-
-{{< section `Dacă am notă bună, pot primi bursă?` >}}
-
-Da. Primii 15-20% (depinde de la an la an) dintre cei clasați vor primi bursă de merit, în valoare de 1200 lei/lună.
-
-{{< /section >}}
-
-{{< section `Există un număr limitat de locuri pentru olimpici?` >}}
-
-Numărul de locuri pentru olimpici este limitat doar de numărul total de locuri de la fiecare domeniu.
-
-{{< /section >}}
-
-{{< section `Cum se acordă locurile la cămin în anul I?` >}}
-
-Locurile la cămin pentru anul I se acordă în ordinea descrescătoare a mediilor de admitere, în limita disponibilității.
-
-{{< /section >}}
-
-{{< section `Dacă intru la altă facultate de informatică, mă pot transfera ulterior la Facultatea de
-Matematică și Informatică, Unibuc?` >}}
-
-Da, cu mențiunea că va trebui să susții ulterior examenele la care nu este posibilă echivalarea cu materiile pe care le-ai parcurs.
-
-{{< /section >}}
-
-{{< section `Care sunt cerințele pe care trebuie să le îndeplinească studenții din Republica Moldova
-pentru a fi admiși la FMI?` >}}
-
-Admiterea românilor de pretutindeni, pe locuri finanțate de statul român (cu sau
-fără bursă), se face la nivel de Universitate.
 
 {{< /section >}}
