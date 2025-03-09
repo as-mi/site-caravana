@@ -1,5 +1,9 @@
-<section class="wow fadeInUp content">
-    <h2>{{ .Get 0 }}</h2>
+<section class="wow fadeInLeft content border rounded">
+    <h3 class="upper text-main jost font-weight-bold text-center">
+        {{ .Get 0  | markdownify}}
+    </h3>
     <hr />
-    {{ .Inner | markdownify }}
+    <p class="jost">
+        {{ .Inner | markdownify }}
+    </p>
 </section>

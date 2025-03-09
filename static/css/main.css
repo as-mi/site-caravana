@@ -2,18 +2,19 @@
   visibility: hidden;
 }
 
+:root {
+  --main-color: #0a53a6;
+  --sky: #8EACCD;
+}
+
 .bkg {
-  background-color: lightblue;
+  background-color: var(--sky);
   background-image: url("../img/bkg.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
-  font-family: "Bellota Text", cursive;
-}
-
-p {
-  text-align: justify;
+  font-family: 'Jost', sans-serif;
 }
 
 .embed-responsive {
@@ -25,34 +26,70 @@ main {
   padding: 0 15px;
 }
 
+
 .header {
-  font-family: "Bellota", cursive;
   text-align: center;
 }
 
 .header-lead {
-  font-size: 5em;
   text-align: center;
   color: white;
-  text-shadow: 6px 6px 0px rgba(0, 0, 0, 0.2);
-  margin-bottom: 40px;
-  margin-top: 30px;
+  margin-top: 10px;
+  font-weight: 650;
+  font-size: 3.5rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.header-lead span {
+  color: var(--main-color);
+
+}
+
+.header-img {
+  margin-top: 40px;
+}
+
+.header-asmi {
+  margin-top: 25px;
+  width: auto;
+  transition: ease-in-out 0.2s;
+}
+
+.header-asmi:hover {
+  scale: 1.05;
+  transition: ease-in-out 0.2s;
 }
 
 .content {
   margin: 40px auto;
-  padding: 30px;
+  padding: 15px;
   background-color: white;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   max-width: 70em;
 }
 
 .page-footer {
-  font-size: 1.5em;
-  color: white;
+  font-size: 1em;
+  color: black;
   text-align: center;
-  margin-bottom: 3rem;
+  background-color: white;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.text-main {
+  color: var(--main-color);
+}
+
+.jost {
+  font-family: 'Jost', sans-serif;
+}
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
 }
 
 @media (min-width: 768px) and (max-width: 1200px) {
@@ -65,16 +102,29 @@ main {
   }
 }
 
-@media (max-width: 768px) {
-  .header-lead {
-    font-size: 2em;
-    text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.2);
+@media (max-width: 360px) {
+
+  .header-img {
+    width: 170px;
+    height: auto;
+}
+
+  .header-asmi {
+    height: 80px;
+    width: auto;
   }
 }
 
-@media (max-width: 360px) {
-  .header-lead {
-    font-size: 1.5em;
+@media (max-width: 768px) {
+
+  .header-img {
+    width: 200px;
+    height: auto;
+  }
+
+  .header-asmi {
+    height: 100px;
+    width: auto;
   }
 }
 
@@ -83,10 +133,16 @@ main {
     margin: 0px 150px;
   }
 
-  .header-lead {
-    margin-bottom: 80px;
-    margin-top: 60px;
+  .header-img {
+    width: 300px;
+    height: auto;
   }
+
+  .header-asmi {
+    height: 120px;
+    width: auto;
+  }
+
   #modalTC > .modal-dialog {
     max-width: 80%;
   }

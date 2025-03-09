@@ -1,6 +1,15 @@
 {{ define "main" }}
 <section class="header">
-  <h1 class="header-lead wow slideInUp">{{ $.Param "heading" }}</h1>
+  {{ if .IsHome }}
+  <img class="header-img wow slideInLeft" data-wow-duration="1s" src="{{ `img/brand.png` | absURL }}" alt="Logo Caravana"/>
+  <h1 class="header-lead wow fadeInUp" data-wow-delay="0.6s">{{ $.Param "formattedHeading" | safeHTML }}</h1>
+  <a href="https://asmi.ro/">
+    <img class="header-asmi wow fadeInUp" data-wow-delay="0.6s" src="{{ `img/logo_asmi.png` | absURL }}" alt="Logo ASMI"/>
+  </a>
+  {{ else}}
+  <h1 class="header-lead wow fadeInUp">{{ $.Param "heading" | safeHTML }}</h1>
+  {{ end }}
 </section>
+
 {{ .Content }}
 {{ end }}
