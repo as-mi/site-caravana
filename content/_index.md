@@ -9,7 +9,20 @@ weight: -200
 
 {{< section `Despre Caravană` >}}
 
-***Caravana Educațională*** este un proiect organizat de **Asociația Studenților la Matematică și Informatică**, prin care vizităm liceele voastre pentru a vă povesti despre cum e viața de student la **Facultatea de Matematică și Informatică** din cadrul **Universității din București**. Vă vom spune tot ce trebuie să știți despre admitere, cursuri, concursul MateInfoUB, Ziua Porților Deschise, oportunități și de ce merită să faceți parte din comunitatea noastră! 💙
+***Caravana Educațională*** este un proiect organizat de **Asociația Studenților la Matematică și Informatică**, prin care vizităm liceele voastre pentru a vă povesti despre cum e viața de student la **Facultatea de Matematică și Informatică** din cadrul **Universității din București**. Vă vom spune tot ce trebuie să știți despre admitere, cursuri, [concursul MateInfoUB](https://fmi.unibuc.ro/concurs-mateinfoub-2025/), Ziua Porților Deschise, oportunități și de ce merită să faceți parte din comunitatea noastră! 💙
+
+{{< /section >}}
+
+{{< section `Webinar` >}}
+
+Nu am ajuns la liceul tău sau mai ai întrebări despre facultate? Pe **16 martie**, te așteptăm la un **webinar online**, unde poți afla răspunsul la toate curiozitățile tale! 💡
+\
+\
+Vei avea ocazia să afli direct de la studenți și profesori orice informație despre viața de student si despre posibilitățile pe care le oferă facultatea. Fie că vrei să clarifici ceva sau ești curios să afli mai multe, acesta e momentul perfect să ne întrebi orice!
+\
+\
+📅 **Când?** 16 martie \
+📍 **Unde?** **[Online - apasă aici pentru a accesa Meet-ul](https://meet.google.com/zbe-zfty-fod)** 🌟
 
 {{< /section >}}
 
@@ -17,9 +30,9 @@ weight: -200
 
 {{< imageRowRight "/img/univ.svg">}}
 
-Urmașă directă a secției de Matematică a Facultății de Științe, Facultatea de Matematică și Informatică a luat naștere în 1863, fiind una dintre facultățile de prestigiu la nivel național. Ea face parte din una dintre cele 6 facultăți din cadrul Palatului Universității, aflându-se în **zona centrală a Bucureștiului**.
+Urmașă directă a secției de Matematică a Facultății de Științe, facultatea noastră a luat naștere în 1864, fiind una dintre facultățile de prestigiu la nivel național. Ea face parte din una dintre cele 6 facultăți din cadrul Palatului Universității, aflându-se în **zona centrală a Bucureștiului**.
 
-Facultatea pune la dispoziție 3 domenii de licență, primele 2 desfășurându-se pe o perioadă de 3 ani, iar ultimul pe 4 ani:
+Facultatea pune la dispoziție 3 domenii de licență:
 - **Informatică**
 - **Matematică** (cu cele 3 specializări ale sale: Matematică, Matematici Aplicate și Matematică Informatică)
 - **Calculatoare și Tehnologia Informației**
@@ -27,19 +40,19 @@ Facultatea pune la dispoziție 3 domenii de licență, primele 2 desfășurându
 {{< /imageRowRight >}}
 
 
-Ce studiezi aici? **Algoritmică, Inteligență Artificială, Sisteme de Operare, Teoria grupurilor, Programare asistată pe PC, Geometrie afină și proiectivă, Baze de Date, Programare Orientată pe Obiecte, Criptografie**. De asemenea, de-a lungul facultății poți opta să participi la cursurile oferite de [Unibuc Robotics](https://www.facebook.com/unibuc.robotics/) unde vei studia **3D Printing, Robotică, Internet of Things** și multe altele. Cu alte cuvinte, ceea ce făcea băiatul din Mr. Robot nu o să ți se mai pară o limbă străină.
+Ce studiezi aici? **Algoritmică, Inteligență Artificială, Sisteme de Operare, Teoria grupurilor, Geometrie afină și proiectivă, Baze de Date, Programare Orientată pe Obiecte, Criptografie, Rețelistică, Sisteme cu microprocesoare**. De asemenea, pe parcursul facultății poți opta să participi la cursurile oferite de [Unibuc Robotics](https://www.facebook.com/unibuc.robotics/) unde vei studia **3D Printing, Robotică, Internet of Things** și multe altele. Cu alte cuvinte, ceea ce făcea băiatul din Mr. Robot nu o să ți se mai pară o limbă străină.
 
 
-Studenții noștri reușesc să își găsească foarte ușor **locuri de muncă**, spunem "studenții", ci nu "absolvenții", pentru că de multe ori se întâmplă ca aceștia să își găsească primul **internship** înainte de finalizarea studiilor, unii chiar din timpul anului 1.
+Studenții FMI reușesc să își găsească foarte ușor **locuri de muncă**. De multe ori se întâmplă ca aceștia să își găsească primul **internship** înainte de finalizarea studiilor, unii chiar din timpul anului 1.
 
 
-Modul de gândire dezvoltat pe parcursul anilor de studiu îi recomandă pe studenți să ocupe **poziții cheie** nu doar în mediul bancar sau în IT, cât și în **cercetarea fundamentală/departamentală**, în domenii precum: criptografie, meteorologie, astronomie, mecanică, optimizări.
+Modul de gândire dezvoltat pe parcursul anilor de studiu îi recomandă pe studenți să ocupe **poziții cheie** nu doar în **domeniul financiar** (domeniul bancar, societăți de asigurări, institute de statistică, la Bursă) sau în **IT** (algoritmică, securitate, dezvoltare de aplicații Web si Mobile, inteligență artificială și multe altele), cât și în domenii precum criptografie, meteorologie, astronomie, mecanică, optimizări.
 
 
-După absolvire există posibilitatea de a opta pentru continuarea studiilor la **Master**, atât la noi, cât și la orice altă universitate din țară sau din străinătate.
+După absolvire există posibilitatea de a opta pentru continuarea studiilor la **Master**, atât la FMI, cât și la orice altă universitate din țară sau din străinătate.
 
 
-Totodată, mediul este primitor, încurajând dezvoltarea nu doar pe plan profesional, cât și pe plan personal. Te poți implica oricând în tot felul de **activități studențești**, concursuri, atât naționale cât și internaționale, poți participa la **hackathoane** sau olimpiade și, de ce nu, și la **petreceri**. Dacă îți faci griji că nu te potrivești în acest mediu, că nu o să îți poți face prieteni și că vii singur într-un oraș mare, stai calm, o să te integrezi mult mai ușor decât x-ul ăla de la subiectul 3.
+Totodată, mediul este primitor, încurajând **dezvoltarea** nu doar pe plan profesional, cât și pe plan personal. Te poți implica oricând în tot felul de **activități studențești**, evenimente caritabile, târguri de joburi, concursuri, atât naționale cât și internaționale, poți participa la **hackathoane** sau olimpiade și, de ce nu, și la **petreceri**. Nu-ți face griji în legatură cu integrarea, deoarece comunitatea universitară se va asigura că te simți cât mai bine, prin intermediul evenimentelor sociale, dar și academice organizate! O să te integrezi mult mai ușor decât x-ul de la subiectul 3 de la Bacalaureat.
 
 **Acceptă provocarea** și vino să îți construiești alături de noi viitorul la care visezi! ✨
 
@@ -57,32 +70,19 @@ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6e
 </div>
 {{< /section >}}
 
-{{< section `Webinar` >}}
-
-Nu am ajuns la liceul tău sau mai ai întrebări despre facultate? Pe **16 martie**, te așteptăm la un **webinar online**, unde poți afla tot ce vrei să știi! 💡
-\
-\
-Vei avea ocazia să afli direct de la studenți și profesori orice informație despre viața de student si despre posibilitățile pe care le oferă facultatea. Fie că vrei să clarifici ceva sau ești curios să afli mai multe, acesta e momentul perfect să ne întrebi orice!
-\
-\
-📅 **Când?** 16 martie \
-📍 **Unde?** Online – link-ul de acces va fi anunțat curând
-
-{{< /section >}}
-
 {{< section `Ziua Porților Deschise` >}}
 
-Vrei să vezi cum arată Facultatea de Matematică și Informatică din interior? Pe **26-27 aprilie**, te invităm la ***Ziua Porților Deschise***, un eveniment unde poți explora facultatea și afla tot ce te interesează despre viața de student! 🎓
+Vrei să vezi cum arată Facultatea de Matematică și Informatică pe interior? Pe **26-27 aprilie**, te invităm la ***Ziua Porților Deschise***, un eveniment care îți oferă ocazia să explorezi facultatea și să afli tot ce te interesează despre viața de student! 🎓
 \
 \
 🔍 Ce te așteaptă?\
-🔹 **Tur al facultății**: vei vizita amfiteatre, săli de curs și laboratoare\
+🔹 **Tur ghidat al facultății**: vei vizita amfiteatre, săli de curs, laboratoare și alte dotări\
 🔹 **Discuții cu voluntari ASMI** despre admitere, examene și experiența lor la FMI\
 \
 📅 **Când?** 26-27 aprilie\
 📍 **Unde?** Facultatea de Matematică și Informatică, Universitatea din București
 \
 \
-Ce mai aștepți? Înscrie-te acum! 👉 **[Link](https://tinyurl.com/inscrieriZPD2025)**
+Ce mai aștepți? **[Completează aici formularul de înscriere!](https://tinyurl.com/inscrieriZPD2025)** 📝
 
 {{< /section >}}
