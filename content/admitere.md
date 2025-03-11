@@ -7,8 +7,8 @@ weight: 2
 
 {{< section `Înscrierea online` >}}
 
-Înscrierile se vor face e**xclusiv online**. Pentru a facilita procesul de admitere și pentru a îmbunătăți experiența candidaților, facultatea va dispune de **o platformă online** pe care vă veți putea înscrie pentru a da admiterea.
-Candidații care au susținut bacalaureatul în sesiunea curentă se pot înscrie online **fără diploma sau adeverința de bacalaureat**, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEN.
+Înscrierile se vor face **exclusiv online**. Pentru a facilita procesul de admitere și pentru a îmbunătăți experiența candidaților, facultatea va dispune de **o platformă online** pe care vă veți putea înscrie pentru a da admiterea.
+Candidații care au susținut bacalaureatul în sesiunea curentă se pot înscrie online **fără diploma sau adeverința de bacalaureat**, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEC.
 
 
 Mai multe detalii despre înscrierea online și despre platforma care va fi folosită vor apărea pe [pagina oficială a facultății](https://fmi.unibuc.ro/admitere-licenta-iulie-2025/).

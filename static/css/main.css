@@ -42,6 +42,7 @@ main {
 
 .header-lead span {
   color: var(--main-color);
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 
 }
 
@@ -128,7 +129,7 @@ main {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 769px) {
   main {
     margin: 0px 150px;
   }

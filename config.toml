@@ -1,7 +1,7 @@
 baseURL = "https://caravana.asmi.ro/"
 languageCode = "ro-ro"
 title = "Caravana Educațională"
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy"]
 
 [markup.goldmark.renderer]
 unsafe = true
