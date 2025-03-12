@@ -52,7 +52,6 @@ main {
 
 .header-asmi {
   margin-top: 25px;
-  width: auto;
   transition: ease-in-out 0.2s;
 }
 
@@ -106,8 +105,8 @@ main {
 @media (max-width: 360px) {
 
   .header-img {
-    width: 170px;
-    height: auto;
+    height: 80px;
+    width: auto;
 }
 
   .header-asmi {
@@ -119,8 +118,8 @@ main {
 @media (max-width: 768px) {
 
   .header-img {
-    width: 200px;
-    height: auto;
+    height: 100px;
+    width: auto;
   }
 
   .header-asmi {
@@ -135,8 +134,8 @@ main {
   }
 
   .header-img {
-    width: 300px;
-    height: auto;
+    height: 120px;
+    width: auto;
   }
 
   .header-asmi {

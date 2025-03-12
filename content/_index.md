@@ -9,7 +9,7 @@ weight: -200
 
 {{< section `Despre Caravană` >}}
 
-***Caravana Educațională*** este un proiect organizat de **Asociația Studenților la Matematică și Informatică**, prin care vizităm liceele voastre pentru a vă povesti despre cum e viața de student la **Facultatea de Matematică și Informatică** din cadrul **Universității din București**. Vă vom spune tot ce trebuie să știți despre [admitere](https://fmi.unibuc.ro/admitere-licenta-iulie-2025/), cursuri, [concursul MateInfoUB](https://fmi.unibuc.ro/concurs-mateinfoub-2025/), Ziua Porților Deschise, oportunități și de ce merită să faceți parte din comunitatea noastră! 💙
+***Caravana Educațională*** este un proiect organizat de **Asociația Studenților la Matematică și Informatică**, prin care vizităm liceele voastre pentru a vă povesti despre cum e viața de student la **Facultatea de Matematică și Informatică** din cadrul **Universității din București**. Vă vom spune tot ce trebuie să știți despre <a href="https://fmi.unibuc.ro/admitere-licenta-iulie-2025/" target="_blank">admitere</a>, cursuri, <a href="https://fmi.unibuc.ro/concurs-mateinfoub-2025/" target="_blank">concursul MateInfoUB</a>, Ziua Porților Deschise, oportunități și de ce merită să faceți parte din comunitatea noastră! 💙
 
 {{< /section >}}
 
@@ -22,7 +22,7 @@ Vei avea ocazia să afli direct de la studenți și profesori orice informație 
 \
 \
 📅 **Când?** 16 martie \
-📍 **Unde?** **[Online - apasă aici pentru a accesa Meet-ul](https://meet.google.com/zbe-zfty-fod)** 🌟
+📍 **Unde?** **<a href="https://meet.google.com/zbe-zfty-fod" target="_blank">Online - apasă aici pentru a accesa Meet-ul</a>** 🌟
 
 {{< /section >}}
 
@@ -40,7 +40,7 @@ Facultatea pune la dispoziție 3 domenii de licență:
 {{< /imageRowRight >}}
 
 
-- Ce studiezi aici? **Algoritmică, Inteligență Artificială, Sisteme de Operare, Teoria grupurilor, Geometrie afină și proiectivă, Baze de Date, Programare Orientată pe Obiecte, Criptografie, Rețelistică, Sisteme cu microprocesoare**. De asemenea, pe parcursul facultății poți opta să participi la cursurile oferite de [Unibuc Robotics](https://www.facebook.com/unibuc.robotics/) unde vei studia **3D Printing, Robotică, Internet of Things** și multe altele. Cu alte cuvinte, ceea ce făcea băiatul din Mr. Robot nu o să ți se mai pară o limbă străină.
+- Ce studiezi aici? **Algoritmică, Inteligență Artificială, Sisteme de Operare, Teoria grupurilor, Geometrie afină și proiectivă, Baze de Date, Programare Orientată pe Obiecte, Criptografie, Rețelistică, Sisteme cu microprocesoare**. De asemenea, pe parcursul facultății poți opta să participi la cursurile oferite de <a href="https://www.facebook.com/unibuc.robotics/" target="_blank">Unibuc Robotics</a> unde vei studia **3D Printing, Robotică, Internet of Things** și multe altele. Cu alte cuvinte, ceea ce făcea băiatul din Mr. Robot nu o să ți se mai pară o limbă străină.
 
 - Studenții FMI reușesc să își găsească foarte ușor **locuri de muncă**. De multe ori se întâmplă ca aceștia să își găsească primul **internship** înainte de finalizarea studiilor, unii chiar din timpul anului 1. Modul de gândire dezvoltat pe parcursul anilor de studiu îi recomandă pe studenți să ocupe **poziții cheie** nu doar în **domeniul financiar** (domeniul bancar, societăți de asigurări, institute de statistică, la Bursă) sau în **IT** (algoritmică, securitate, dezvoltare de aplicații Web si Mobile, inteligență artificială și multe altele), cât și în domenii precum criptografie, meteorologie, astronomie, mecanică, optimizări.
 
@@ -77,6 +77,6 @@ Vrei să vezi cum arată Facultatea de Matematică și Informatică pe interior?
 📍 **Unde?** Facultatea de Matematică și Informatică, Universitatea din București
 \
 \
-Ce mai aștepți? **[Completează aici formularul de înscriere!](https://tinyurl.com/inscrieriZPD2025)** 📝
+Ce mai aștepți? **<a href="https://tinyurl.com/inscrieriZPD2025" target="_blank">Completează aici formularul de înscriere!</a>** 📝
 
 {{< /section >}}

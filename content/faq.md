@@ -13,15 +13,15 @@ acestuia.
 
 {{< section `De ce FMI și nu alte facultăți?` >}}
 
-Printre **avantajele** pe care le oferă facultatea noastră se numără **programul flexibil**, **aprofundarea** domeniilor de interes (poți studia doar Matematică, dacă dorești), **materia** care acoperă toate ariile de studiu, **profesorii dedicați** din facultate și **proiectele oferite de ASMI**, precum cele de integrare în facultate, cele academice sau cele sociale.
-**Recomandăm cu tărie** răsfoirea [planurilor de învățământ](https://drive.google.com/drive/folders/1kG5DrzUHeDTVoqDXhJf9UH80HGlBNieQ) pentru a vedea materiile studiate și pentru a lua o **decizie informată** în această privință.
+Printre **avantajele** pe care le oferă facultatea noastră se numără **programul flexibil**, **aprofundarea** domeniilor de interes (poți studia doar Matematică sau doar Informatică, dacă dorești), **materia** care acoperă toate ariile de studiu, **profesorii dedicați** din facultate și **proiectele oferite de ASMI**, precum cele de integrare în facultate, cele academice sau cele sociale.
+**Recomandăm cu tărie** răsfoirea <a href="https://drive.google.com/drive/folders/1kG5DrzUHeDTVoqDXhJf9UH80HGlBNieQ" target="_blank">planurilor de învățământ</a> pentru a vedea materiile studiate și pentru a lua o **decizie informată** în această privință.
 
 
 {{< /section >}}
 
 {{< section `Cum mă pot pregăti pentru admiterea la informatică?` >}}
 
-Știm că pregătirea pentru admitere poate părea copleșitoare și dificilă. Totuși, considerăm ca o metodă bună constă în rezolvarea subiectelor de admitere din anii anteriori. Acestea pot fi găsite în subsolul [paginii de admitere](https://fmi.unibuc.ro/admitere-licenta-iulie-2025/).
+Știm că pregătirea pentru admitere poate părea copleșitoare și dificilă. Totuși, considerăm ca o metodă bună constă în rezolvarea subiectelor de admitere din anii anteriori. Acestea pot fi găsite în subsolul <a href="https://fmi.unibuc.ro/admitere-licenta-iulie-2025/" target="_blank">paginii de admitere</a>.
 
 
 {{< /section >}}

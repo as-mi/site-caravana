@@ -11,15 +11,15 @@ weight: 2
 Candidații care au susținut bacalaureatul în sesiunea curentă se pot înscrie online **fără diploma sau adeverința de bacalaureat**, prin specificarea în aplicația de înscriere a acordului de a le fi preluate rezultatele la bacalaureat din aplicația SIIIR pusă la dispoziție facultăților de către MEC.
 
 
-Mai multe detalii despre înscrierea online și despre platforma care va fi folosită vor apărea pe [pagina oficială a facultății](https://fmi.unibuc.ro/admitere-licenta-iulie-2025/).
+Mai multe detalii despre înscrierea online și despre platforma care va fi folosită vor apărea pe <a href="https://fmi.unibuc.ro/admitere-licenta-iulie-2025/" target="_blank">pagina oficială a facultății</a>.
 
-Pentru mai multe informații și noutăți, urmăriți [grupul oficial](https://www.facebook.com/groups/484636324701228/) al Admiterii 2025, [pagina oficială de Facebook](https://www.facebook.com/fmi.ub) a facultății sau [contul de Instagram al Asociației](https://www.instagram.com/asmi.ub/)!
+Pentru mai multe informații și noutăți, urmăriți <a href="https://www.facebook.com/groups/484636324701228/" target="_blank">grupul oficial</a> al Admiterii 2025, <a href="https://www.facebook.com/fmi.ub" target="_blank">pagina oficială de Facebook</a> a facultății sau <a href="https://www.instagram.com/asmi.ub/" target="_blank">contul de Instagram al Asociației</a>.
 
 {{< /section >}}
 
 
 {{< section `Cum este admiterea la Informatică ID?` >}}
 
-Aceasta va avea loc în luna septembrie, mai multe detalii urmează să fie publicate ulterior pe [site-ul facultații](https://fmi.unibuc.ro/admitere/).
+Aceasta va avea loc în luna septembrie, mai multe detalii urmează să fie publicate ulterior pe <a href="https://fmi.unibuc.ro/admitere/" target="_blank">site-ul facultații</a>.
 
 {{< /section >}}

@@ -15,14 +15,17 @@ weight: 1
 În primul an vei studia materii fundamentale de matematică. Din anul al doilea, îți vei putea alege una dintre cele trei **specializări**, în funcție de preferințele tale:
 
 {{< imageRowRight "/img/math.svg">}}
-### 1. Matematică pură: 
+### **1. Matematică pură:**
 Absolvenții de **Matematică pură** sunt cei care se îndreaptă către **învățământ** de toate gradele și către **cercetare**, unde își vor aprofunda cunoștințele acumulate de-a lungul anilor în facultate. Dacă ești pasionat de matematică, acest program cuprinde toate disciplinele de bază din  acest domeniu, dar și cursuri de specialitate, cum ar fi **Teoria numerelor**, **Analiză funcțională** sau **Ecuații cu derivate parțiale**.
 
-### 2. Matematici aplicate:
+### **2. Matematici aplicate:**
 Absolvenții de **Matematici aplicate** pot alege să lucreze ca matematicieni în **domeniul economic** (în cadrul băncilor, societăților de asigurări, pensii, la Bursă, institute de statistică, sau chiar data scientist). În cadrul acestei specializări, se pune accentul pe metode matematice și statistice aplicate în mod practic în diverse domenii științifice, astfel încât studenții să poată urma o carieră și în domeniul informaticii, în fizică teoretică sau în orice domeniu în care se aplică matematica.
 
-### 3. Matematică Informatică:
+### **3. Matematică Informatică:**
 Absolvenții de **Matematică Informatică** sunt cei care au o pasiune atât pentru matematică, cât și pentru **informatică**, și își doresc să le studieze pe amândouă, într-un program comun, la un nivel care să le permită ulterior să se îndrepte în oricare dintre cele 2 direcții. În cadrul specializării se studiază multe materii **în comun** cu cei de la Informatică, astfel studentul poate continua să aprofundeze matematica, dar și să se dezvolte în **domeniul IT**.
+
+**Planurile de învățământ** de la fiecare specializare pot fi găsite <a href="https://drive.google.com/drive/folders/11z9Eh0cLsHUBQHTVII6nTsF8TRVqirnY" target="_blank">**aici**</a>.
+
 {{< /imageRowRight >}}
 
 {{< /section >}}
@@ -41,6 +44,8 @@ Unul dintre marile avantaje ale acestui domeniu de licență este acela că **an
 
 Oportunitățile după absolvire includ angajarea oriunde în **sfera IT**, întrucât facultatea te pregătește pentru toate subdomeniile. În plus, se pot continua studiile cu unul dintre cele 8 **programe de master** oferit de FMI sau de alte universități europene. De asemenea, absolvenții se pot orienta și către un program de **doctorat** sau chiar spre o carieră didactică în informatică.
 
+**Planul de învățământ** pentru domeniul Informatică este disponibil <a href="https://drive.google.com/drive/folders/1Rfsn9hPv4oCGH2hZljUB70Yoj0AQc_-U" target="_blank">**aici**</a>.
+
 {{< /imageRowRight >}}
 
 {{< /section >}}
@@ -57,6 +62,8 @@ Domeniul de licență **Calculatoare și Tehnologia Informației** (CTI) este un
 
 Facultatea de Matematică și Informatică oferă acest program în parteneriat cu Facultatea de Fizică (care acoperă toate cursurile de fizică, electronică și hardware) și cu Facultatea de Administrație și Afaceri (care acoperă cursurile de economie, fiind utile pentru cei interesați de modul în care funcționează o firmă în domeniu).
 Absolvenții de la CTI pot lucra atât în **domeniul IT** (în orice ramură menționată anterior), cât și ca **administratori și proiectanți** de rețele de calculatoare, de baze de date, ca analiști de sistem, ingineri de testare, etc.
+
+**Planul de învățământ** pentru domeniul CTI este disponibil <a href="https://drive.google.com/drive/folders/1YN07bNSGm6tsg8Xum497jAcJB5qQputp" target="_blank">**aici**</a>.
 
 {{< /imageRowLeft >}}
 
