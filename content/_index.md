@@ -21,7 +21,7 @@ Nu am ajuns la liceul tău sau mai ai întrebări despre facultate? Pe **16 mart
 Vei avea ocazia să afli direct de la studenți și profesori orice informație despre viața de student si despre posibilitățile pe care le oferă facultatea. Fie că vrei să clarifici ceva sau ești curios să afli mai multe, acesta e momentul perfect să ne întrebi orice!
 \
 \
-📅 **Când?** 16 martie \
+📅 **Când?** **16 martie, ora 15:00** \
 📍 **Unde?** **<a href="https://meet.google.com/zbe-zfty-fod" target="_blank">Online - apasă aici pentru a accesa Meet-ul</a>** 🌟
 
 {{< /section >}}
