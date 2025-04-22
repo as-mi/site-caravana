@@ -63,20 +63,3 @@ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6e
   </iframe>
 </div>
 {{< /section >}}
-
-{{< section `Ziua Porților Deschise` >}}
-
-Vrei să vezi cum arată Facultatea de Matematică și Informatică pe interior? Pe **26-27 aprilie**, te invităm la ***Ziua Porților Deschise***, un eveniment care îți oferă ocazia să explorezi facultatea și să afli tot ce te interesează despre viața de student! 🎓
-\
-\
-🔍 Ce te așteaptă?\
-🔹 **Tur ghidat al facultății**: vei vizita amfiteatre, săli de curs, laboratoare și alte dotări\
-🔹 **Discuții cu voluntari ASMI** despre admitere, examene și experiența lor la FMI\
-\
-📅 **Când?** 26-27 aprilie\
-📍 **Unde?** Facultatea de Matematică și Informatică, Universitatea din București
-\
-\
-Ce mai aștepți? **<a href="https://tinyurl.com/inscrieriZPD2025" target="_blank">Completează aici formularul de înscriere!</a>** 📝
-
-{{< /section >}}
